@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\archetypes"
   ],
-  "SelectedNode": "\\config.yml",
+  "SelectedNode": "\\.github\\workflows\\gh-pages.yml",
   "PreviewInSolutionExplorer": false
 }

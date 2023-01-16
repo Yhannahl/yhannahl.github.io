@@ -2,12 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yhannahl.github.io/comment/</loc>
+    <lastmod>2023-01-16T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/comment/comments/</loc>
+    <lastmod>2023-01-16T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/</loc>
+    <lastmod>2023-01-16T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/links/</loc>
+    <lastmod>2023-01-16T23:36:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/search/</loc>
+    <lastmod>2023-01-16T23:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/blogs/</loc>
+    <lastmod>2023-01-16T23:29:12+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/projects/</loc>
+    <lastmod>2023-01-16T23:28:51+08:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/about/</loc>
+    <lastmod>2023-01-16T23:28:11+08:00</lastmod>
+  </url><url>
     <loc>https://yhannahl.github.io/categories/</loc>
   </url><url>
     <loc>https://yhannahl.github.io/series/</loc>
   </url><url>
     <loc>https://yhannahl.github.io/tags/</loc>
-  </url><url>
-    <loc>https://yhannahl.github.io/</loc>
   </url>
 </urlset>
