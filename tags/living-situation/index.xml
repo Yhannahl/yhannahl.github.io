@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Living Situation on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/tags/living-situation/</link>
+    <description>Recent content in Living Situation on Yihan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 Jan 2023 11:32:24 +0800</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/living-situation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FamiPie 🎈</title>
+      <link>https://yhannahl.github.io/projects/famipie/</link>
+      <pubDate>Wed, 18 Jan 2023 11:32:24 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/famipie/</guid>
+      <description>&amp;ldquo;FamiPie 派家&amp;rdquo; &amp;ndash; A rapid response housing product for the aftermath of an earthquake. [ ** ] · Background Story · During the Production &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
