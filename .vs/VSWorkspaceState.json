@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets\\css",
+    "\\assets\\css\\extended",
     "\\content",
     "\\content\\en",
-    "\\layouts",
-    "\\layouts\\partials",
+    "\\content\\en\\projects",
     "\\themes",
     "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\layouts",
-    "\\themes\\PaperMod\\layouts\\partials",
-    "\\themes\\PaperMod\\layouts\\shortcodes"
+    "\\themes\\PaperMod\\assets",
+    "\\themes\\PaperMod\\assets\\css"
   ],
-  "SelectedNode": "\\content\\en\\projects",
+  "SelectedNode": "\\content\\en\\projects\\kunsi",
   "PreviewInSolutionExplorer": false
 }

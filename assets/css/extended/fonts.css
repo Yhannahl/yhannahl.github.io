@@ -1,0 +1,9 @@
+@font-face {
+	  font-family: "Alibaba-PuHuiTi-Regular";
+	  src: url("/fonts/Alibaba-PuHuiTi-Regular.ttf") format("truetype")
+}
+
+@font-face {
+	  font-family: "Alibaba-PuHuiTi-Medium";
+	  src: url("/fonts/Alibaba-PuHuiTi-Medium.ttf") format("truetype")
+}

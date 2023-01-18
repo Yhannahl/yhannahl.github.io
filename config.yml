@@ -15,7 +15,7 @@ buildExpired: false
 #googleAnalytics: UA-123-45 # 谷歌统计
 # Copyright: Yihan
 
-paginate: 3    # 每页显示的文章数
+paginate: 5    # 每页显示的文章数
 summaryLength: 140 # 文章概览的自字数，默认70
 minify:
     disableXML: true
@@ -37,7 +37,7 @@ languages:
       profileMode:
         enabled: true
         title: 娄忆晗 Yihan Lou
-        subtitle: "👏🏼Welcome to my website!<br/>👇Contacts here"
+        subtitle: "👏🏼 Welcome to my website !<br/>👇 Contact me here :-)"
         imageUrl: "img/portrait.jpg" #图片放在static/img/portrait.jpg
         imageTitle: (Hannah)
         imageWidth: 150
@@ -47,8 +47,8 @@ languages:
             url: about
           - name: 💽 Projects
             url: projects 
-          - name: 🏞️ Blogs
-            url: blogs
+          - name: 🏞️ Photos
+            url: photos
       menu:
         main:
           - identifier: about
@@ -63,9 +63,9 @@ languages:
             name: 💽 Projects
             url: projects
             weight: 3    
-          - identifier: blogs
-            name: 🏞️ Blogs
-            url: blogs
+          - identifier: photos
+            name: 🏞️ Photos
+            url: photos
             weight: 4
           #- identifier: comments
             #name: 🔖 Comments
