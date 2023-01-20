@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\assets\\css",
-    "\\assets\\css\\extended",
+    "\\assets\\css\\common",
     "\\content",
     "\\content\\en",
+    "\\content\\en\\about",
     "\\content\\en\\projects",
-    "\\themes",
-    "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\assets",
-    "\\themes\\PaperMod\\assets\\css"
+    "\\layouts",
+    "\\layouts\\_default"
   ],
-  "SelectedNode": "\\content\\en\\projects\\kunsi",
+  "SelectedNode": "\\assets\\css\\common\\profile-mode.css",
   "PreviewInSolutionExplorer": false
 }

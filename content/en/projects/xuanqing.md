@@ -16,7 +16,7 @@ description: ""
 showToc: true
 TocOpen: true
 showbreadcrumbs: true
-weight: 
+weight: 300
 cover:
     image: "projects/xuanqing/xqcover.jpg"
     caption: "How will a new developing city show its characters?"

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Future Interaction Mode on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/tags/future-interaction-mode/</link>
+    <description>Recent content in Future Interaction Mode on Yihan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 19 Jan 2023 21:04:32 +0800</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/future-interaction-mode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ges.edu 👌🏻</title>
+      <link>https://yhannahl.github.io/projects/gesedu/</link>
+      <pubDate>Thu, 19 Jan 2023 21:04:32 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/gesedu/</guid>
+      <description>&amp;ldquo;Ges.edu 基于手势辅助的幼教系统&amp;rdquo; &amp;ndash; Gesture-assisted Early Childhood Education Platform. [ It’s interesting to find that gestures use could help a lot with our daily expression and even the learning process. Besides, with new technology, gestures were developed for more scenarios. Then, I thought about what will be there if gesture could be used into children’s education, which may offer the opportunity for both their learning progress and future adaptability to such interaction modes. ] · Intro · Presentation</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,7 +17,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 
+weight: 290
 cover:
     image: "projects/kunsi/kscover.jpg"
     caption: "How to interpret Chinese traditional culture story of Han dynasty in modern time? "

@@ -16,7 +16,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 
+weight: 1
 cover:
     image: "projects/doudou/ddcover.jpg"
     caption: "What can we learn from the subconscious actions in dreams? "
