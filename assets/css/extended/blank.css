@@ -4,10 +4,14 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 body {
-    font-family: 'Alibaba-PuHuiTi-Medium', 'Alibaba-PuHuiTi-Regular', Sans-serif;
+    font-family: 'Alibaba-PuHuiTi-Medium', 'Alibaba-PuHuiTi-Regular', serif;
     font-size: 1rem;
     line-height: 1.5;
     margin: 0;
+}
+
+post-content {
+    font-family: 'Alibaba-PuHuiTi-Medium', 'Alibaba-PuHuiTi-Regular', serif;
 }
 
 :root {

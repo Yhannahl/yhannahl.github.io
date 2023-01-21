@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
     "\\assets\\css\\common",
+    "\\assets\\css\\extended",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\about",
+    "\\content\\en\\about\\aboutme",
+    "\\content\\en\\plogs",
     "\\content\\en\\projects",
-    "\\layouts",
-    "\\layouts\\_default"
+    "\\themes"
   ],
-  "SelectedNode": "\\assets\\css\\common\\profile-mode.css",
+  "SelectedNode": "\\content\\en\\projects\\dora.md",
   "PreviewInSolutionExplorer": false
 }

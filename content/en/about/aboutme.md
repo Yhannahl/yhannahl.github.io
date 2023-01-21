@@ -26,7 +26,7 @@ cover:
 
 --------------
 ### EDUCATION BACKGROUND
-+ BEng in Industrial Design 2018-2022 -- College of Design and Innovation (D&I), Tongji University, China
++ BEng in Industrial Design 2018-2022<br/>-- College of Design and Innovation (D&I), Tongji University, China
 ### SKILLS
 + Language -- Chinese (native), English (IELTS-7.0)
 + Technical Skill -- Blender, Figma, Unity, Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making
@@ -49,9 +49,9 @@ cover:
 -- [ *2019* ]
 
 ### INTERNSHIP EXPERIENCE
-+ Space & Interactive Design Intern | Network Party Culture Technology Development (Shanghai) Co., Ltd. 2022 
++ Space & Interactive Design | Network Party Culture Technology Development (Shanghai) Co., Ltd. 2022 
 -- [ *Responsible for MR transformation of the ’Art Space Installation’-Whale, located at Columbia Circle, Changning District, Shanghai, China. & Piano flash installation design of ‘Play Me, I’m Yours’ project for HKRI Taikoo Hui* ]
 + Design Intern of Children’s Education Product | Tongji Tiandi Innovation & Design Co., Ltd. 2021
--- [ *Product & Graphic Design (Responsible for Rhino Conservation Project, ‘XIXI’, Rhinoceros Narwhal Graffiti Project). * ]
-+ Industrial Design Intern | Material & Application Design Lab(D&I). 2020
--- [ *Auxiliary production of sustainable coffee grounds products & parametric design of protective tools. * ]
+-- [ *Product & Graphic Design (Responsible for Rhino Conservation Project, ‘XIXI’, Rhinoceros Narwhal Graffiti Project).* ]
++ Industrial Design | Material & Application Design Lab(D&I). 2020
+-- [ *Auxiliary production of sustainable coffee grounds products & parametric design of protective tools.* ]

@@ -47,8 +47,8 @@ languages:
             url: about
           - name: 💽 Projects
             url: projects 
-          - name: 🏞️ Photos
-            url: photos
+          - name: 🏞️ Plogs
+            url: plogs
       menu:
         main:
           - identifier: about
@@ -63,9 +63,9 @@ languages:
             name: 💽 Projects
             url: projects
             weight: 3    
-          - identifier: photos
-            name: 🏞️ Photos
-            url: photos
+          - identifier: plogs
+            name: 🏞️ Plogs
+            url: plogs
             weight: 4
           #- identifier: comments
             #name: 🔖 Comments
@@ -117,6 +117,10 @@ params:
           url: "https://www.instagram.com/yhannah.l/"
         - name: email
           url: "mailto:hannahlou@foxmail.com"
+        
+        #- name: behance
+          #url: "https://www.behance.net/yihanlou1"
+
 
 
     # editPost:

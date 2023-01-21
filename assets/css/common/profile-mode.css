@@ -51,6 +51,7 @@
 }
 
 .post-entry:hover {
+    transition: 0.15s;
     transform: transform 1.5s;
     -webkit-transform: scale(1.2);
     -moz-transform: scale(1.2);
@@ -61,6 +62,7 @@
 }
 
 .post-content img:hover {
+    transition: 0.23s;
     transform: transform 1.5s;
     -webkit-transform: scale(1.7);
     -moz-transform: scale(1.7);
