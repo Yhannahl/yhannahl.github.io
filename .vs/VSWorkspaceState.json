@@ -2,15 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css\\common",
-    "\\assets\\css\\extended",
     "\\content",
     "\\content\\en",
+    "\\content\\en\\about",
     "\\content\\en\\about\\aboutme",
     "\\content\\en\\plogs",
     "\\content\\en\\projects",
     "\\themes"
   ],
-  "SelectedNode": "\\content\\en\\projects\\dora.md",
+  "SelectedNode": "\\content\\en\\about\\aboutme.md",
   "PreviewInSolutionExplorer": false
 }

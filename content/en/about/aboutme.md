@@ -29,7 +29,7 @@ cover:
 + BEng in Industrial Design 2018-2022<br/>-- College of Design and Innovation (D&I), Tongji University, China
 ### SKILLS
 + Language -- Chinese (native), English (IELTS-7.0)
-+ Technical Skill -- Blender, Figma, Unity, Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making
++ Technical Skill -- Blender, Figma, Unity(C#|Art), HTML+CSS+JS(Junior), Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making
 + Design Related Skill -- Research & Concept Development, Design Innovation, UX Design, Interactive Design, Product Design, 3D (modeling & art & animation), Illustration
 
 ### ACTIVITIES & CROSS-FIELD PRACTICE
