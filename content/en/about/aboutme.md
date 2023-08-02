@@ -15,7 +15,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 1
 cover:
-    image: "about/aboutme/lyhcover.jpg"
+    image: "about/aboutme/lyhcover1.jpg"
     caption: "Nice to meet you here :-)"
     alt: ""
     relative: false
