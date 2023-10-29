@@ -6,14 +6,14 @@
     <description>Recent content on Yihan&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Aug 2023 14:54:09 +0800</lastBuildDate><atom:link href="https://yhannahl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 22:47:00 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 🙋🏻‍♀️</title>
       <link>https://yhannahl.github.io/about/aboutme/</link>
       <pubDate>Fri, 20 Jan 2023 19:27:04 +0800</pubDate>
       
       <guid>https://yhannahl.github.io/about/aboutme/</guid>
-      <description>&amp;ndash; Hi, I&amp;rsquo;m Yihan, a Designer &amp;amp; Maker !💡 [ I&amp;rsquo;m always passionate about immersing myself into new things, discovering in life, and with my power to create delightful projects! ] EDUCATION BACKGROUND MA in New Media 2023-2025&amp;ndash; Art and Media, Aalto University, Finland BEng in Industrial Design 2018-2022&amp;ndash; College of Design and Innovation (D&amp;amp;I), Tongji University, China SKILLS Language &amp;ndash; Chinese (native), English (IELTS-7.0) Technical &amp;ndash; Blender, Figma, Unity(C#|Art), HTML+CSS+JS(Junior), Touchdesigner, Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making Design Related &amp;ndash; Research &amp;amp; Concept Development, Design Innovation, UX Design, Interactive Design, Product Design, 3D (modeling &amp;amp; art &amp;amp; animation), Illustration ACTIVITIES &amp;amp; CROSS-FIELD PRACTICE Designer of ‘XIXI’ team project | 2023 China International Furniture Fair(Guangzhou) &amp;ndash; [ 2023 ] New Media Art practice | Creative of Robotic Arm Interaction Design Workshop &amp;ndash; [ 2022 ] Volunteer | 2021 Pan-Tongji Design week &amp;ndash; [ 2021 ] Interdisciplinary Student | Digital Animation and Digital Entertainment Laboratory of Tongji University, D&amp;amp;I &amp;ndash; [ 2021 ] Tongji Concrete Canoe Team’s core member in charge of Graphics and Visualization | College of Civil Engineering &amp;ndash; [ 2020-2021 ] Volunteer | 2019 Pan-Tongji Design week &amp;ndash; [ 2019 ] In charge of the display and design sections | Summer Camp of Innovation and Entrepreneurship in Italy &amp;ndash; [ 2019 ] WORK &amp;amp; INTERNSHIP EXPERIENCE Space &amp;amp; Interactive Design | Network Party Culture Technology Development (Shanghai) Co.</description>
+      <description>&amp;ndash; Hi, I&amp;rsquo;m Yihan, a Designer &amp;amp; Maker !💡 [ I&amp;rsquo;m always passionate about immersing myself into new things, discovering in life, and with my power to create delightful projects! ] EDUCATION MA in New Media 2023-2025&amp;ndash; Art and Media, Aalto University, Finland BEng in Industrial Design 2018-2022&amp;ndash; College of Design and Innovation (D&amp;amp;I), Tongji University, China SKILLS Language &amp;ndash; Chinese (native), English (IELTS-7.0) Technical &amp;ndash; Blender, Figma, Unity(C#|Art), HTML+CSS+JS(Junior), Touchdesigner, Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making Design Related &amp;ndash; Research &amp;amp; Concept Development, Design Innovation, UX Design, Interactive Design, Product Design, 3D (modeling &amp;amp; art &amp;amp; animation), Illustration ACTIVITIES &amp;amp; CROSS-FIELD PRACTICE Designer of ‘XIXI’ team project | 2023 China International Furniture Fair(Guangzhou) &amp;ndash; [ 2023 ] New Media Art practice | Creative of Robotic Arm Interaction Design Workshop &amp;ndash; [ 2022 ] Volunteer | 2021 Pan-Tongji Design week &amp;ndash; [ 2021 ] Interdisciplinary Student | Digital Animation and Digital Entertainment Laboratory of Tongji University, D&amp;amp;I &amp;ndash; [ 2021 ] Tongji Concrete Canoe Team’s core member in charge of Graphics and Visualization | College of Civil Engineering &amp;ndash; [ 2020-2021 ] Volunteer | 2019 Pan-Tongji Design week &amp;ndash; [ 2019 ] In charge of the display and design sections | Summer Camp of Innovation and Entrepreneurship in Italy &amp;ndash; [ 2019 ] WORK &amp;amp; INTERNSHIP EXPERIENCE Space &amp;amp; Interactive Design | Network Party Culture Technology Development (Shanghai) Co.</description>
     </item>
     
     <item>
@@ -23,6 +23,16 @@
       
       <guid>https://yhannahl.github.io/projects/doudou/</guid>
       <description>&amp;ldquo;DOUDOU 兜兜淘梦&amp;rdquo; &amp;ndash; An Experimental New Media Project. [ According to the fixed point trajectory, the robotic arm carries out the media projection like a chasing light in the space, connecting multiple fragmented dream segments by the interaction between light &amp;amp; shadow with space. Through constructing the &amp;ldquo;Escape plan&amp;rdquo; of &amp;ldquo;a self-conscious shadow&amp;rdquo; in our sleep to metaphorize that the past which makes us want to escape is actually a part of our own heart, and we have the ability to face our inner self. ] · Background Story · During the Production &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;</description>
+    </item>
+    
+    <item>
+      <title>InterReaction 🎙️</title>
+      <link>https://yhannahl.github.io/projects/interreaction/</link>
+      <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/interreaction/</guid>
+      <description>&amp;ldquo;InterReaction&amp;rdquo; &amp;ndash; A real-time audio visual experiment. [ InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.
+InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.</description>
     </item>
     
     <item>

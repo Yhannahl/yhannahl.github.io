@@ -3,14 +3,14 @@
     "",
     "\\content",
     "\\content\\en",
+    "\\content\\en\\about",
     "\\static",
-    "\\static\\fonts",
     "\\static\\img",
     "\\themes",
     "\\themes\\PaperMod",
     "\\themes\\PaperMod\\layouts",
     "\\themes\\PaperMod\\layouts\\partials"
   ],
-  "SelectedNode": "\\themes\\PaperMod\\layouts\\partials\\footer.html",
+  "SelectedNode": "\\content\\en\\about\\aboutme.md",
   "PreviewInSolutionExplorer": false
 }
