@@ -22,10 +22,10 @@ cover:
 ---
 
 ## -- Hi, I'm Yihan, a Designer & Maker !💡
-#### [  *I am always passionate about immersing myself into new things, discovering in life, and with my power to create delightful projects!*  ]
+#### [  *I'm always passionate about immersing myself into new things, discovering in life, and with my power to create delightful projects!*  ]
 
 --------------
-### EDUCATION BACKGROUND
+### EDUCATION
 
 + MA in New Media 2023-2025<br/>-- Art and Media, Aalto University, Finland
 + BEng in Industrial Design 2018-2022<br/>-- College of Design and Innovation (D&I), Tongji University, China
