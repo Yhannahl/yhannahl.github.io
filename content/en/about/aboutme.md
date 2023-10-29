@@ -16,24 +16,28 @@ disableShare: true
 weight: 1
 cover:
     image: "about/aboutme/lyhcover1.jpg"
-    caption: "Nice to meet you here :-)"
+    caption: "Nice to meet you here :)"
     alt: ""
     relative: false
 ---
 
-## -- Hi, I'm Yihan, a Designer & Hacker !💡
-#### [  *I am passionate about discovering in life, and with my power to create delightful products!*  ]
+## -- Hi, I'm Yihan, a Designer & Maker !💡
+#### [  *I am always passionate about immersing myself into new things, discovering in life, and with my power to create delightful projects!*  ]
 
 --------------
 ### EDUCATION BACKGROUND
-+ MA in New Media Design and Production 2023-2025<br/>-- Art and Media, Aalto University, Finland
+
++ MA in New Media 2023-2025<br/>-- Art and Media, Aalto University, Finland
 + BEng in Industrial Design 2018-2022<br/>-- College of Design and Innovation (D&I), Tongji University, China
+
 ### SKILLS
+
 + Language -- Chinese (native), English (IELTS-7.0)
-+ Technical Skill -- Blender, Figma, Unity(C#|Art), HTML+CSS+JS(Junior), Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making
-+ Design Related Skill -- Research & Concept Development, Design Innovation, UX Design, Interactive Design, Product Design, 3D (modeling & art & animation), Illustration
++ Technical -- Blender, Figma, Unity(C#|Art), HTML+CSS+JS(Junior), Touchdesigner, Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making
++ Design Related -- Research & Concept Development, Design Innovation, UX Design, Interactive Design, Product Design, 3D (modeling & art & animation), Illustration
 
 ### ACTIVITIES & CROSS-FIELD PRACTICE
+
 + Designer of ‘XIXI’ team project | 2023 China International Furniture Fair(Guangzhou)
 -- [ *2023* ]
 + New Media Art practice | Creative of Robotic Arm Interaction Design Workshop
@@ -50,6 +54,7 @@ cover:
 -- [ *2019* ]
 
 ### WORK & INTERNSHIP EXPERIENCE
+
 + Space & Interactive Design | Network Party Culture Technology Development (Shanghai) Co., Ltd. 2022 
 -- [ *Responsible for MR transformation of the ’Art Space Installation’-Whale, located at Columbia Circle, Changning District, Shanghai, China. & Piano flash installation design of ‘Play Me, I’m Yours’ project for HKRI Taikoo Hui* ]
 + Design for Children’s Education | Tongji Tiandi Innovation & Design Co., Ltd. 2021

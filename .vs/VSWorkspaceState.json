@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\about",
-    "\\content\\en\\about\\aboutme",
-    "\\content\\en\\plogs",
-    "\\content\\en\\projects",
-    "\\themes"
+    "\\static",
+    "\\static\\fonts",
+    "\\static\\img",
+    "\\themes",
+    "\\themes\\PaperMod",
+    "\\themes\\PaperMod\\layouts",
+    "\\themes\\PaperMod\\layouts\\partials"
   ],
+  "SelectedNode": "\\themes\\PaperMod\\layouts\\partials\\footer.html",
   "PreviewInSolutionExplorer": false
 }
