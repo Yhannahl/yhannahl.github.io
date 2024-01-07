@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 3
 cover:
-    image: "projects/BlossomtoSoar/BlossomtoSoarCover.jpg"
+    image: "projects/blossomtoSoar/BlossomtoSoarCover.jpg"
     caption: "An Interactive installation with physical controller and generative visuals"
     alt: ""
     relative: false
@@ -36,7 +36,7 @@ cover:
 
 ----------------
 
-[![Detail image](./projects/BlossomtoSoar1.jpg)](./projects/BlossomtoSoar1.jpg)
+![](BlossomtoSoar1.jpg)
 
 #### -- Concept
 
@@ -46,9 +46,9 @@ The name 'Phalaenopsis' comes from two Greek words, 'Phalaina' (meaning moth or 
 
 Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.
 
-Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation & returning between Butterfly Orchids & Butterflies, combining with participant¡¯s involvements. The plant with its free spirit to discuss the Freedom & Bondage of Life and convey the message of breaking through limitations.
+Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation & returning between Butterfly Orchids & Butterflies, combining with participant's involvements. The plant with its free spirit to discuss the Freedom & Bondage of Life and convey the message of breaking through limitations.
 
-[![Detail image](./projects/initialStoryline.jpg)](./projects/initialStoryline.jpg)
+![](initialStoryline.jpg)
 
 ---
 
