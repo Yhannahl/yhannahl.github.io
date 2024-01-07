@@ -16,12 +16,13 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 2
+weight: 5
 cover:
     image: "projects/InterReaction/InterReactionCover-03.jpg"
     caption: "A real-time audio visual experiment "
     alt: ""
     relative: false
+
 ---
 
 ## "InterReaction"

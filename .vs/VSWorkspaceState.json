@@ -3,7 +3,7 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\about",
+    "\\content\\en\\projects",
     "\\static",
     "\\static\\img",
     "\\themes",
@@ -11,6 +11,6 @@
     "\\themes\\PaperMod\\layouts",
     "\\themes\\PaperMod\\layouts\\partials"
   ],
-  "SelectedNode": "\\content\\en\\about\\aboutme.md",
+  "SelectedNode": "\\content\\en\\projects\\doudou.md",
   "PreviewInSolutionExplorer": false
 }
