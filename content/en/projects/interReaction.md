@@ -37,7 +37,7 @@ cover:
 
 ----------------
 
-![](./InterReaction/InterReaction01.jpg)
+![](ir01.jpg)
 
 #### -- Video Presentation
 
