@@ -37,6 +37,8 @@ cover:
 
 ----------------
 
+![](InterReaction01.jpg)
+
 #### -- Video Presentation
 
 {{< youtube ZsFz9sUtOf0 >}}
