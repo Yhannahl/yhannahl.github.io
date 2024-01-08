@@ -37,6 +37,7 @@ cover:
 
 ----------------
 
+![](BlossomtoSoar1.jpg)
 
 #### -- Concept
 
@@ -48,6 +49,7 @@ Butterfly orchids have been cultivated by humans as ornamental plants with beaut
 
 Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation & returning between Butterfly Orchids & Butterflies, combining with participant's involvements. The plant with its free spirit to discuss the Freedom & Bondage of Life and convey the message of breaking through limitations.
 
+![](initialStoryline.jpg)
 
 ---
 
@@ -56,5 +58,5 @@ Indeed, the association between butterfly orchids and butterflies seems to be li
 {{< youtube wcM7-GoEZqc >}}
 
 > ### **P.S🔭**
-> - My learning documentation: **[Physical Computing](https://newmedia.dog/students/2023/yihan-lou/physical-computing/)**
+> - My learning documentation: **[Physical Computing](https://newmedia.dog/students/2023/yihan-lou/physical-computing/final-project/)**
 
