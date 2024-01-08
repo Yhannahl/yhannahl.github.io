@@ -27,7 +27,8 @@ cover:
 
 ## "BlossomtoSoar"
 
-### -- A real-time audio visual experiment.An Interactive installation with physical controller and generative visuals.
+### -- An Interactive installation with physical controller and generative visuals.
+
 ----------------
 
 [ *'Blossom to Soar' is an interactive installation with generative visuals, exploring the contrast between freedom and bondage, and the creativity of nature.*

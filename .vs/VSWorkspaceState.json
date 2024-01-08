@@ -3,7 +3,7 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\projects",
+    "\\content\\en\\plogs",
     "\\static",
     "\\static\\img",
     "\\themes",
@@ -11,5 +11,6 @@
     "\\themes\\PaperMod\\layouts",
     "\\themes\\PaperMod\\layouts\\partials"
   ],
+  "SelectedNode": "\\content\\en\\projects\\kunsi.md",
   "PreviewInSolutionExplorer": false
 }
