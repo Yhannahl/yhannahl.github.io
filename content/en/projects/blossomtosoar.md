@@ -5,7 +5,7 @@ hidemeta: true
 draft: false
 author: ["Yihan"]
 keywords: 
-- Physical
+- Physical Interaction
 tags:
 - Physical Computing
 - Interaction
@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 3
 cover:
-    image: "projects/blossomtosoar/blossomtosoarcover.jpg"
+    image: "projects/blossomtosoar/btscover.jpg"
     caption: "An Interactive installation with physical controller and generative visuals"
     alt: ""
     relative: false
