@@ -9,9 +9,8 @@
     "\\layouts\\partials",
     "\\static",
     "\\static\\img",
-    "\\themes",
-    "\\themes\\PaperMod\\layouts\\partials"
+    "\\themes"
   ],
-  "SelectedNode": "\\layouts\\partials\\head.html",
+  "SelectedNode": "\\content\\en\\projects\\BlossomtoSoar.md",
   "PreviewInSolutionExplorer": false
 }
