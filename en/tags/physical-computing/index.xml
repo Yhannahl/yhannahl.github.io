@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Interaction on Yihan&#39;s Website</title>
-    <link>https://yhannahl.github.io/en/tags/interaction/</link>
-    <description>Recent content in Interaction on Yihan&#39;s Website</description>
+    <title>Physical Computing on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/en/tags/physical-computing/</link>
+    <description>Recent content in Physical Computing on Yihan&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 00:36:27 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/interaction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jan 2024 00:36:27 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/physical-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blossommtosoar 🦋</title>
       <link>https://yhannahl.github.io/en/projects/blossommtosoar/</link>
@@ -19,16 +19,6 @@ By picking up the flower pot and then tilting it, grow your digital butterfly or
 The name &amp;lsquo;Phalaenopsis&amp;rsquo; comes from two Greek words, &amp;lsquo;Phalaina&amp;rsquo; (meaning moth or butterfly) and &amp;lsquo;opsis&amp;rsquo; (meaning similar). Therefore, &amp;lsquo;Phalaenopsis&amp;rsquo; translates to &amp;lsquo;plant resembling a butterfly.&amp;rsquo;
 Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.
 Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit.</description>
-    </item>
-    
-    <item>
-      <title>InterReaction 🎙️</title>
-      <link>https://yhannahl.github.io/en/projects/interreaction/</link>
-      <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
-      
-      <guid>https://yhannahl.github.io/en/projects/interreaction/</guid>
-      <description>&amp;ldquo;InterReaction&amp;rdquo; &amp;ndash; A real-time audio visual experiment. [ InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.
-InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.</description>
     </item>
     
   </channel>
