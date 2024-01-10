@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 3
 cover:
-    image: "projects/blossomtosoar/blossomtoSoarCover.jpg"
+    image: "projects/blossomtosoar/BlossomtoSoarCover.jpg"
     caption: "An Interactive installation with physical controller and generative visuals"
     alt: ""
     relative: false
