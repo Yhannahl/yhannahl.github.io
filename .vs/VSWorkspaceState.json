@@ -3,14 +3,15 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\plogs",
+    "\\content\\en\\projects",
+    "\\content\\en\\projects\\BlossomtoSoar",
+    "\\layouts",
+    "\\layouts\\partials",
     "\\static",
     "\\static\\img",
     "\\themes",
-    "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\layouts",
     "\\themes\\PaperMod\\layouts\\partials"
   ],
-  "SelectedNode": "\\content\\en\\projects\\kunsi.md",
+  "SelectedNode": "\\layouts\\partials\\head.html",
   "PreviewInSolutionExplorer": false
 }

@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 5
 cover:
-    image: "projects/InterReaction/InterReactionCover-03.jpg"
+    image: "projects/interReaction/InterReactionCover-03.jpg"
     caption: "A real-time audio visual experiment "
     alt: ""
     relative: false
