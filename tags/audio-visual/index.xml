@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 29 Oct 2023 22:47:00 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/audio-visual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InterReaction 🎙️</title>
-      <link>https://yhannahl.github.io/projects/interreaction/</link>
+      <link>https://yhannahl.github.io/projects/ir/</link>
       <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
       
-      <guid>https://yhannahl.github.io/projects/interreaction/</guid>
+      <guid>https://yhannahl.github.io/projects/ir/</guid>
       <description>&amp;ldquo;InterReaction&amp;rdquo; &amp;ndash; A real-time audio visual experiment. [ InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.
 InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.</description>
     </item>
