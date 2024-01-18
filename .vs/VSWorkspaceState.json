@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\en",
+    "\\content\\en\\projects\\xuanqing",
+    "\\layouts",
+    "\\layouts\\partials",
+    "\\layouts\\_default"
   ],
+  "SelectedNode": "\\layouts\\partials\\svg.html",
   "PreviewInSolutionExplorer": false
 }
