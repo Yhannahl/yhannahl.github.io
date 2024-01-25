@@ -3,10 +3,11 @@
     "",
     "\\content",
     "\\content\\en",
+    "\\content\\en\\about",
     "\\layouts",
     "\\layouts\\partials",
     "\\layouts\\_default"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\content\\en\\about\\_index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -51,6 +51,10 @@ Indeed, the association between butterfly orchids and butterflies seems to be li
 
 ![](blossom02.jpg)
 
+![](blossom03.jpg)
+
+![](blossom04.jpg)
+
 ---
 
 #### -- Video Presentation
