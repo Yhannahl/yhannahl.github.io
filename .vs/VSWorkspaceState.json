@@ -4,10 +4,10 @@
     "\\content",
     "\\content\\en",
     "\\content\\en\\about",
-    "\\layouts",
-    "\\layouts\\partials",
-    "\\layouts\\_default"
+    "\\content\\en\\projects",
+    "\\content\\en\\projects\\bts",
+    "\\static",
+    "\\static\\img"
   ],
-  "SelectedNode": "\\content\\en\\about\\_index.md",
   "PreviewInSolutionExplorer": false
 }

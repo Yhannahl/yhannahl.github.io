@@ -88,7 +88,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
-    author: HannahLou
+    author: YihanLou
     # author: ["Me", "You"] # multiple authors
     defaultTheme: dark  # defaultTheme: light or  dark 
     disableThemeToggle: false
@@ -130,11 +130,11 @@ params:
 
     
     assets:
-        favicon: "img/portrait.jpg"
-        favicon16x16: "img/portrait.jpg"
-        favicon32x32: "img/portrait.jpg"
-        apple_touch_icon: "img/portrait.jpg"
-        safari_pinned_tab: "img/portrait.jpg"
+        favicon: "img/yhanicon1.jpg"
+        favicon16x16: "img/yhanicon1.jpg"
+        favicon32x32: "img/yhanicon1.jpg"
+        apple_touch_icon: "img/yhanicon1.jpg"
+        safari_pinned_tab: "img/yhanicon1.jpg"
 
     analytics:
         google:

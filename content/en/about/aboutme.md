@@ -73,7 +73,7 @@ cover:
 
 <br/>
 
-+ DESIGN RELATED <br/>-- Research & Concept Development, Design Innovation, Interactive Design
++ DESIGN <br/>-- Research & Concept Development, Physical Computing, Generative Systems, Creative Coding, Interaction Design, Immersive Mapping
 
 <br/>
 
