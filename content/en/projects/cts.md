@@ -1,5 +1,5 @@
 ﻿---
-title: "ContaminationtoSystem ❗️🌊❗️"
+title: "Contamination to System ❗️🌊❗️"
 date: 2024-04-15T22:11:53+02:00
 hidemeta: true
 draft: false
@@ -26,7 +26,7 @@ cover:
 
 ---
 
-## "ContaminationtoSystem"
+## "Contamination to System"
 ### -- An Embodied interactive mapping with real-time generative visual.
 
 ----------------

@@ -1,5 +1,5 @@
 ﻿---
-title: "KUNSI 🎞️"
+title: "KUN'SI 🎞️"
 date: 2023-01-16T23:28:51+08:00
 hidemeta: true
 draft: false
@@ -24,7 +24,7 @@ cover:
     alt: ""
     relative: false
 ---
-## "KUNSI 鲲驷"
+## "KUN'SI 鲲驷"
 ### -- A Digital Interactive Installation.
 ----------------
 [ *Cultural heritage is a constant topic of the times. But as trendy culture sweeps through the social media of young people, is traditional culture being hidden in the torrent of information? We then consider how to awaken people's cultural awareness through the combination of technology and art in the present era, taking the culture of the Han Dynasty, the beginning of Chinese history, as an example.* ]

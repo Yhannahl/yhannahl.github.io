@@ -1,5 +1,5 @@
 ﻿---
-title: "XUANQING TEAM 🏙️"
+title: "XUAN'QING TEAM 🏙️"
 date: 2023-01-16T23:28:51+08:00
 hidemeta: true
 draft: false
@@ -23,7 +23,7 @@ cover:
     alt: ""
     relative: false
 ---
-## "XUANQING TEAM 玄青家族"
+## "XUAN'QING TEAM 玄青家族"
 ### -- An Integreted City IP Design Project.
 ----------------
 [ *The construction of new suburban cities is an important direction in the development of urbanisation in China today. However, the lack of and convergence in the external image of cities has prevented most of the 'new cities' from making an impression on the wider public.*

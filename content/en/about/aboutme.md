@@ -21,7 +21,7 @@ cover:
     relative: false
 ---
 
-## Hi, I'm Yihan, New Media Master Student at Aalto University, a Designer & Maker !💡
+## Hi, I'm Yihan, a Designer & Maker, now studying New Media Master at Aalto University!💡
 
 <br/>
 

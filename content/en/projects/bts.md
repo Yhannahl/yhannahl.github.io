@@ -1,5 +1,5 @@
 ﻿---
-title: "BlossomtoSoar 🦋"
+title: "Blossom to Soar 🦋"
 date: 2024-01-07T22:06:53+02:00
 hidemeta: true
 draft: false
@@ -25,7 +25,7 @@ cover:
 
 ---
 
-## "BlossomtoSoar"
+## "Blossom to Soar"
 
 ### -- An Interactive installation with physical controller and generative visuals.
 

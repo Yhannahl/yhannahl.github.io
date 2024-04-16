@@ -1,5 +1,5 @@
 ﻿---
-title: "DOUDOU 🦾"
+title: "DOU'DOU 🦾"
 date: 2023-01-16T23:28:51+08:00
 hidemeta: true
 draft: false
@@ -25,7 +25,7 @@ cover:
 
 ---
 
-## "DOUDOU 兜兜淘梦"
+## "DOU'DOU 兜兜淘梦"
 ### -- An Experimental New Media Project.
 
 ----------------
