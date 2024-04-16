@@ -16,7 +16,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 3
+weight: 287
 cover:
     image: "projects/bts/btscover.jpg"
     caption: "An Interactive installation with physical controller and generative visuals"

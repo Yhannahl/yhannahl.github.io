@@ -39,7 +39,7 @@ languages:
         title: 娄忆晗 Yihan Lou
         subtitle: "👏🏼 Welcome to my website !<br/>👇 Contact me here :-)"
         imageUrl: "img/portrait.jpg" #图片放在static/img/portrait.jpg
-        imageTitle: (Hannah)
+        imageTitle: (Yihan)
         imageWidth: 150
         imageHeight: 150
         buttons:
@@ -87,7 +87,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    # description: "这是一个纯粹的博客......"
+    # description: ""
     author: YihanLou
     # author: ["Me", "You"] # multiple authors
     defaultTheme: dark  # defaultTheme: light or  dark 

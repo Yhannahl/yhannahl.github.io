@@ -6,7 +6,21 @@
     <description>Recent content in Real-time on Yihan&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 07 Jan 2024 22:06:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2024 22:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ContaminationtoSystem ❗️🌊❗️</title>
+      <link>https://yhannahl.github.io/projects/cts/</link>
+      <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/cts/</guid>
+      <description>&amp;ldquo;ContaminationtoSystem&amp;rdquo; &amp;ndash; An Embodied interactive mapping with real-time generative visual. [ &amp;lsquo;Contamination to System&amp;rsquo; explores ocean contamination and the threats to sea creatures caused by humans. When people come, trash and pollution liquid leak from their hands and bodies. I do that by using the real-time generated visual to create an embodied interactive mapping.
+The project gets inspiration from the phenomenon that some sea creatures consume man-made contamination which then combines in their body and finally flows into the sea ecosystem. ]
+&amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;Main software: Blender, TouchDesigner
+Main hardware: Zed Camera
+Audio composited using sound effects under CC0 license.
+&amp;ndash; Concept My experience in underwater diving and sea fishing in shallow sea areas provided me a glimpse into how easily the human-made would become trash and then be ‘forgotten’ in the sea. They are only small parts of the contamination humans have been making to the ocean, not to mention the pollutants that are deliberately released.</description>
+    </item>
+    
     <item>
       <title>BlossomtoSoar 🦋</title>
       <link>https://yhannahl.github.io/projects/bts/</link>

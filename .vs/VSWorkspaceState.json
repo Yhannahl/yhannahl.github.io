@@ -1,13 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\content\\en",
-    "\\content\\en\\about",
-    "\\content\\en\\projects",
-    "\\content\\en\\projects\\bts",
-    "\\static",
-    "\\static\\img"
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\css\\extended",
+    "\\layouts",
+    "\\layouts\\partials",
+    "\\themes",
+    "\\themes\\PaperMod",
+    "\\themes\\PaperMod\\layouts",
+    "\\themes\\PaperMod\\layouts\\partials"
   ],
   "PreviewInSolutionExplorer": false
 }
