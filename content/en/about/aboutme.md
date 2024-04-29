@@ -15,8 +15,8 @@ showbreadcrumbs: true
 disableShare: true
 weight: 1
 cover:
-    image: "about/aboutme/lyhcover1.jpg"
-    caption: "Nice to meet you here :)"
+    image: "about/aboutme/lyhcover2.JPG"
+    caption: "Nice to meet you here :-)"
     alt: ""
     relative: false
 ---
@@ -25,11 +25,11 @@ cover:
 
 <br/>
 
-+ 📦 I'm keen on creating 3D visuals with physical objects, and have basic coding abilities, thus I'm able to design and create interactive installations on my own.
++ 📦 I'm keen on creating 3D visuals with interactive medium, and have basic coding abilities, thus I'm able to design and create interactive systems on my own and in great collaborations.
 
 <br/>
 
-+ Interactive Installation, <br/>3D Art(Modeling & Animation), <br/>UX Design, Product Design, <br/>Digital/Visual Design, <br/>Illustration/Branding
++ Interactive medium & Installation, <br/>3D Art(Modeling & Animation), <br/>UX Design, Product Design, <br/>Digital/Visual Design, <br/>Illustration/Branding
 
 <br/>
 
@@ -49,7 +49,7 @@ cover:
 
 ---
 
-+ MA in New Media (2023-2025)<br/>-- Art and Media, Aalto University, Finland
++ MAing in New Media (2023-2025)<br/>-- Art and Media, Aalto University, Finland
 
 <br/>
 
@@ -77,7 +77,7 @@ cover:
 
 <br/>
 
-+ LANGUAGE <br/>-- Chinese (Native), English (IELTS-7.0)
++ LANGUAGE <br/>-- Chinese (Native), English (Advance)
 
 </br>
 
@@ -93,8 +93,13 @@ cover:
 
 ---
 
-+ Designer of ‘XIXI’ Rhino conservation team project | 2023 China International Furniture Fair (Guangzhou)
-[ *2023* ]
++ 2023 Aalto Media Lab Winter DEMO Day | Harald Herlin Learning
+Centre – [ *2023* ]
+
+</br>
+
++ Designer of ‘XIXI’ Rhino conservation team project | 2022 China International Furniture Fair (Guangzhou)
+[ *2022* ]
 
 </br>
 

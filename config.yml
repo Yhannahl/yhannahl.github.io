@@ -38,7 +38,7 @@ languages:
         enabled: true
         title: 娄忆晗 Yihan Lou
         subtitle: "👏🏼 Welcome to my website !<br/>👇 Contact me here :-)"
-        imageUrl: "img/portrait.jpg" #图片放在static/img/portrait.jpg
+        imageUrl: "img/portrait1.JPG" #图片放在static/img/portrait1.JPG
         imageTitle: (Yihan)
         imageWidth: 150
         imageHeight: 150

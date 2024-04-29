@@ -17,7 +17,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 286
+weight: 285
 cover:
     image: "projects/cts/ctsCover.jpg"
     caption: "An Embodied Interactive Mapping with Real-time Generative Visual"
