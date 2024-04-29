@@ -26,9 +26,7 @@ cover:
 ---
 
 
-[ *Here links the site I document some of my Digital Fabrication learning and practicing process.*
-
-*I will continually update something about digital makings here. 
+[ *Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here. 
 [Welcome to check them out :D](https://yhannahlou1.gitlab.io/yh-digital-fabrication/)* ]
 
 
