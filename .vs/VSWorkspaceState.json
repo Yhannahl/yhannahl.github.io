@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\css",
-    "\\assets\\css\\extended",
+    "\\content",
+    "\\content\\en",
+    "\\content\\en\\projects",
     "\\layouts",
     "\\layouts\\partials",
     "\\themes",
@@ -11,5 +11,6 @@
     "\\themes\\PaperMod\\layouts",
     "\\themes\\PaperMod\\layouts\\partials"
   ],
+  "SelectedNode": "\\content\\en\\projects\\cts.md",
   "PreviewInSolutionExplorer": false
 }

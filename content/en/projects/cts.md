@@ -17,7 +17,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 285
+weight: 280
 cover:
     image: "projects/cts/ctsCover.jpg"
     caption: "An Embodied Interactive Mapping with Real-time Generative Visual"
@@ -41,7 +41,7 @@ cover:
 
 {{< youtube idy04QU6kpQ >}}
 
-Main software: Blender, TouchDesigner
+Main software: Blender, TouchDesigner, StableDiffusion
 
 Main hardware: Zed Camera
 

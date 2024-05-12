@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Storytelling on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/tags/storytelling/</link>
+    <description>Recent content in Storytelling on Yihan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 May 2024 22:05:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Echo of Natureland 👂🏻</title>
+      <link>https://yhannahl.github.io/projects/echoofnatureland/</link>
+      <pubDate>Sun, 12 May 2024 22:05:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/echoofnatureland/</guid>
+      <description>&amp;ldquo;Echo of Natureland&amp;rdquo; &amp;ndash; An Audio-reactive AI Generative Visual Project with a Dramaturgical Story. Main Software: TouchDesigner, StreamDiffusion, AfterEffects
+&amp;ndash; Story Concept &amp;ndash; Promts Analysis &amp;ndash; Prots to Control Visuals Combine audioVisuals and prompts to StreamDiffusion to generate realtime images.
+&amp;ndash; Video DEMO &lt;!DOCTYPE HTML&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
