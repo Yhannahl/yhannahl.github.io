@@ -15,19 +15,10 @@
       <guid>https://yhannahl.github.io/projects/cts/</guid>
       <description>&amp;ldquo;Contamination to System&amp;rdquo; &amp;ndash; An Embodied interactive mapping with real-time generative visual. [ &amp;lsquo;Contamination to System&amp;rsquo; explores ocean contamination and the threats to sea creatures caused by humans. When people come, trash and pollution liquid leak from their hands and bodies. I do that by using the real-time generated visual to create an embodied interactive mapping.
 The project gets inspiration from the phenomenon that some sea creatures consume man-made contamination which then combines in their body and finally flows into the sea ecosystem. ]
-&amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;Main software: Blender, TouchDesigner
+&amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;Main software: Blender, TouchDesigner, StableDiffusion
 Main hardware: Zed Camera
 Audio composited using sound effects under CC0 license.
 &amp;ndash; Concept My experience in underwater diving and sea fishing in shallow sea areas provided me a glimpse into how easily the human-made would become trash and then be ‘forgotten’ in the sea. They are only small parts of the contamination humans have been making to the ocean, not to mention the pollutants that are deliberately released.</description>
-    </item>
-    
-    <item>
-      <title>Digital Fabrication Documentation 🔧</title>
-      <link>https://yhannahl.github.io/projects/df/</link>
-      <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
-      
-      <guid>https://yhannahl.github.io/projects/df/</guid>
-      <description>[ Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here. Welcome to check them out :D ]</description>
     </item>
     
     <item>
@@ -42,6 +33,26 @@ By picking up the flower pot and then tilting it, grow your digital butterfly or
 The name &amp;lsquo;Phalaenopsis&amp;rsquo; comes from two Greek words, &amp;lsquo;Phalaina&amp;rsquo; (meaning moth or butterfly) and &amp;lsquo;opsis&amp;rsquo; (meaning similar). Therefore, &amp;lsquo;Phalaenopsis&amp;rsquo; translates to &amp;lsquo;plant resembling a butterfly.&amp;rsquo;
 Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.
 Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit.</description>
+    </item>
+    
+    <item>
+      <title>Echo of Natureland 👂🏻</title>
+      <link>https://yhannahl.github.io/projects/echoofnatureland/</link>
+      <pubDate>Sun, 12 May 2024 22:05:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/echoofnatureland/</guid>
+      <description>&amp;ldquo;Echo of Natureland&amp;rdquo; &amp;ndash; An Audio-reactive AI Generative Visual Project with a Dramaturgical Story. Main Software: TouchDesigner, StreamDiffusion, AfterEffects
+&amp;ndash; Story Concept &amp;ndash; Promts Analysis &amp;ndash; Prots to Control Visuals Combine audioVisuals and prompts to StreamDiffusion to generate realtime images.
+&amp;ndash; Video DEMO &lt;!DOCTYPE HTML&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Fabrication Documentation 🔧</title>
+      <link>https://yhannahl.github.io/projects/df/</link>
+      <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/df/</guid>
+      <description>[ Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here. Welcome to check them out :D ]</description>
     </item>
     
     <item>
