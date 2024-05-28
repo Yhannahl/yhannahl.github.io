@@ -8,15 +8,6 @@
     <language>en</language>
     <lastBuildDate>Sun, 29 Oct 2023 22:47:00 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DOU&#39;DOU 🦾</title>
-      <link>https://yhannahl.github.io/en/projects/doudou/</link>
-      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
-      <guid>https://yhannahl.github.io/en/projects/doudou/</guid>
-      <description>&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo; &amp;ndash; An Experimental New Media Project. [ According to the fixed point trajectory, the robotic arm carries out the media projection like a chasing light in the space, connecting multiple fragmented dream segments by the interaction between light &amp;amp; shadow with space. Through constructing the &amp;ldquo;Escape plan&amp;rdquo; of &amp;ldquo;a self-conscious shadow&amp;rdquo; in our sleep to metaphorize that the past which makes us want to escape is actually a part of our own heart, and we have the ability to face our inner self. ] · Background Story · During the Production &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;</description>
-    </item>
-    
-    <item>
       <title>InterReaction 🎙️</title>
       <link>https://yhannahl.github.io/en/projects/ir/</link>
       <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
@@ -24,6 +15,15 @@
       <guid>https://yhannahl.github.io/en/projects/ir/</guid>
       <description>&amp;ldquo;InterReaction&amp;rdquo; &amp;ndash; A real-time audio visual experiment. [ InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.
 InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.</description>
+    </item>
+    
+    <item>
+      <title>DOU&#39;DOU 🦾</title>
+      <link>https://yhannahl.github.io/en/projects/doudou/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/en/projects/doudou/</guid>
+      <description>&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo; &amp;ndash; An Experimental New Media Project. [ According to the fixed point trajectory, the robotic arm carries out the media projection like a chasing light in the space, connecting multiple fragmented dream segments by the interaction between light &amp;amp; shadow with space. Through constructing the &amp;ldquo;Escape plan&amp;rdquo; of &amp;ldquo;a self-conscious shadow&amp;rdquo; in our sleep to metaphorize that the past which makes us want to escape is actually a part of our own heart, and we have the ability to face our inner self. ] · Background Story · During the Production &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;</description>
     </item>
     
   </channel>
