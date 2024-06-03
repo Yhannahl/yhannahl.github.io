@@ -16,7 +16,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 286
+weight: 288
 cover:
     image: "projects/df/dfCover.jpg"
     caption: "My Digital Fabrication Documentation Site"
