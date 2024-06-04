@@ -16,7 +16,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 310
+weight: 290
 cover:
     image: "projects/gesedu/geseducover.jpg"
     caption: "To explore how 'gestures use' could help with early education! "
@@ -35,5 +35,9 @@ cover:
 ![](gesedu1.jpg)
 ##### · Presentation
 ![](gesedu2.jpg)
+
 ---
 
+#### Interaction Design
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk581mhaUuwRK7eYkadpbO%2FGes.edu%3Fpage-id%3D0%253A1%26node-id%3D2-2%26viewport%3D585%252C291%252C0.18%26t%3DGCBvJGvHVPFArknT-1%26scaling%3Dscale-down%26starting-point-node-id%3D18%253A14" allowfullscreen></iframe>

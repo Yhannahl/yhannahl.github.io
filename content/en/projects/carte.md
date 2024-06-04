@@ -16,7 +16,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 309
+weight: 295
 cover:
     image: "projects/carte/ctcover.jpg"
     caption: "How to help children develop spatial thinking in a fun way? "

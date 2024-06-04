@@ -16,7 +16,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 289
+weight: 310
 cover:
     image: "projects/ir/ircover.jpg"
     caption: "A real-time audio visual experiment"
