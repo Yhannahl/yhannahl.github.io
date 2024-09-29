@@ -13,7 +13,62 @@
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
       
       <guid>https://yhannahl.github.io/en/projects/doudou/</guid>
-      <description>&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo; &amp;ndash; An Experimental New Media Project. [ According to the fixed point trajectory, the robotic arm carries out the media projection like a chasing light in the space, connecting multiple fragmented dream segments by the interaction between light &amp;amp; shadow with space. Through constructing the &amp;ldquo;Escape plan&amp;rdquo; of &amp;ldquo;a self-conscious shadow&amp;rdquo; in our sleep to metaphorize that the past which makes us want to escape is actually a part of our own heart, and we have the ability to face our inner self. ] · Background Story · During the Production &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;</description>
+      <description>&lt;h2 id=&#34;doudou-兜兜淘梦&#34;&gt;&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-experimental-new-media-project&#34;&gt;&amp;ndash; An Experimental New Media Project.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;According to the fixed point trajectory, the robotic arm carries out the media projection like a chasing light in the space, connecting multiple fragmented dream segments by the interaction between light &amp;amp; shadow with space.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Through constructing the &amp;ldquo;Escape plan&amp;rdquo; of &amp;ldquo;a self-conscious shadow&amp;rdquo; in our sleep to metaphorize that the past which makes us want to escape is actually a part of our own heart, and we have the ability to face our inner self.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;-background-story&#34;&gt;· Background Story&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;dd1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-during-the-production&#34;&gt;· During the Production&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;dd2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .youtube_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .youtube_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;youtube_shortcodes&#34;&gt;
+    &lt;iframe
+            class=&#34;youtube-player&#34;
+            type=&#34;text/html&#34;
+            width=&#34;640&#34;
+            height=&#34;385&#34;
+            src=&#34;https://www.youtube.com/embed/UDoylOfbEDQ?autoplay=0&#34;
+            style=&#34;
+                 position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;
+                 border:0;&#34;
+            allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
     </item>
     
   </channel>
