@@ -15,7 +15,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 1
 cover:
-    image: "about/aboutme/lyhcover2.JPG"
+    image: "about/aboutme/YihanIntro.jpg"
     caption: "Nice to meet you here :-)"
     alt: ""
     relative: false
@@ -25,11 +25,11 @@ cover:
 
 <br/>
 
-+ 📦 I'm keen on creating 3D visuals with interactive medium, and have basic coding abilities, thus I'm able to design and create interactive systems on my own and in great collaborations.
++ 📦 I'm keen on creating interactive medium between digital and physical worlds, have creative coding abilities, thus I'm able to design and create interactive systems on my own and in great collaborations.
 
 <br/>
 
-+ Interactive medium & Installation, <br/>3D Art(Modeling & Animation), <br/>UX Design, Product Design, <br/>Digital/Visual Design, <br/>Illustration/Branding
++ Interactive medium & Installation, <br/>3D Art(Modeling & Animation), <br/>VR Design and Development, <br/>UI/UX Design, <br/>Product Design, <br/>Digital/Visual Design, <br/>Illustration/Branding
 
 <br/>
 
@@ -69,15 +69,15 @@ cover:
 
 ---
 
-+ TECHNOLOGY <br/>-- Blender, Touchdesigner, Unity(basic C#|Art), Figma, HTML+CSS+JS(Junior), Substance Painter, Rhino, Illustrator, Photoshop, Premiere, After Effect, Office, Manual making
++ TECHNOLOGY <br/>-- Blender, Unity(VR|C#|Art), Figma, Touchdesigner, HTML+CSS+JS(Junior), Substance Painter, Adobe cc, Office, Manual making
 
 <br/>
 
-+ DESIGN <br/>-- Research & Concept Development, Physical Computing, Generative Systems, Creative Coding, Interaction Design, Immersive Mapping
++ DESIGN <br/>-- Research & Concept Development, VR Game/Experience design and Development, Interaction Design, Physical Computing, Generative Systems, Immersive Mapping
 
 <br/>
 
-+ LANGUAGE <br/>-- Chinese (Native), English (Advance)
++ LANGUAGE <br/>-- Chinese (Native), English (Advanced)
 
 </br>
 
