@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Graphic on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/tags/graphic/</link>
+    <description>Recent content in Graphic on Yihan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 29 Sep 2024 23:13:03 +0300</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wwwdesign - UGames - A BoardGame Social Network 🔗 (WIP)</title>
+      <link>https://yhannahl.github.io/projects/wwwdesign/</link>
+      <pubDate>Sun, 29 Sep 2024 23:13:03 +0300</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/wwwdesign/</guid>
+      <description>&amp;ldquo;UGames - A BoardGame Social Network - Work in Progress&amp;rdquo; &amp;ndash; Web Application Design and Development Phase1 - Design Documentation &amp;ndash; Hi-Fi Demo &amp;ndash; Preliminary schedule for the project 6 September: Group Registration
+13 September: Reserve Time for Design Meeting
+20 September: Design Meeting with Assistant
+23 September: Design Gala Slides
+27 September: Design Document
+11 October: Demo Gala Reflection
+18 October: Updated Project Plan
+29 November: Final Document
+29 November: Final Web Service
+(WIP)
+&amp;ndash; Responsibilities for each group member UI/UX designer: Yihan Frontend developer: Edgar, Yihan(assistant) Backend developer and database administrator: Loïc, Edgar(assistant) </description>
+    </item>
+    
+  </channel>
+</rss>

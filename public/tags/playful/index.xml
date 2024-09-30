@@ -8,7 +8,7 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/playful/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding Virtual World 🕹️</title>
+      <title>Coding Virtual World 🕹️ (WIP)</title>
       <link>https://yhannahl.github.io/projects/codingvr/</link>
       <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
       
@@ -28,6 +28,25 @@ The project gets inspiration from the phenomenon that some sea creatures consume
 Main hardware: Zed Camera
 Audio composited using sound effects under CC0 license.
 &amp;ndash; Concept My experience in underwater diving and sea fishing in shallow sea areas provided me a glimpse into how easily the human-made would become trash and then be ‘forgotten’ in the sea. They are only small parts of the contamination humans have been making to the ocean, not to mention the pollutants that are deliberately released.</description>
+    </item>
+    
+    <item>
+      <title>Wwwdesign - UGames - A BoardGame Social Network 🔗 (WIP)</title>
+      <link>https://yhannahl.github.io/projects/wwwdesign/</link>
+      <pubDate>Sun, 29 Sep 2024 23:13:03 +0300</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/wwwdesign/</guid>
+      <description>&amp;ldquo;UGames - A BoardGame Social Network - Work in Progress&amp;rdquo; &amp;ndash; Web Application Design and Development Phase1 - Design Documentation &amp;ndash; Hi-Fi Demo &amp;ndash; Preliminary schedule for the project 6 September: Group Registration
+13 September: Reserve Time for Design Meeting
+20 September: Design Meeting with Assistant
+23 September: Design Gala Slides
+27 September: Design Document
+11 October: Demo Gala Reflection
+18 October: Updated Project Plan
+29 November: Final Document
+29 November: Final Web Service
+(WIP)
+&amp;ndash; Responsibilities for each group member UI/UX designer: Yihan Frontend developer: Edgar, Yihan(assistant) Backend developer and database administrator: Loïc, Edgar(assistant) </description>
     </item>
     
     <item>

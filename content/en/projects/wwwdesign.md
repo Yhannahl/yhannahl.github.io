@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 278
 cover:
-    image: "projects/wwwdesign/wwwCover.jpg"
+    image: "projects/wwwdesign/wwwdesign1.png"
     caption: "Web Application Design and Development"
     alt: ""
     relative: false
