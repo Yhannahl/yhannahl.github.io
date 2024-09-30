@@ -5,6 +5,9 @@
     <loc>https://yhannahl.github.io/en/about/aboutme/</loc>
     <lastmod>2023-01-20T19:27:04+08:00</lastmod>
   </url><url>
+    <loc>https://yhannahl.github.io/en/projects/codingvr/</loc>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
+  </url><url>
     <loc>https://yhannahl.github.io/en/projects/cts/</loc>
     <lastmod>2024-04-15T22:11:53+02:00</lastmod>
   </url><url>
@@ -59,11 +62,26 @@
     <loc>https://yhannahl.github.io/en/projects/rollup/</loc>
     <lastmod>2020-01-16T23:28:51+08:00</lastmod>
   </url><url>
-    <loc>https://yhannahl.github.io/en/</loc>
+    <loc>https://yhannahl.github.io/en/tags/3d/</loc>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/en/tags/coding/</loc>
     <lastmod>2024-09-30T22:11:53+02:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/interactive/</loc>
-    <lastmod>2024-06-03T14:28:51+08:00</lastmod>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/en/tags/playful/</loc>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/en/tags/</loc>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/en/tags/vr/</loc>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
+  </url><url>
+    <loc>https://yhannahl.github.io/en/</loc>
+    <lastmod>2024-09-30T22:11:53+02:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/mapping/</loc>
     <lastmod>2024-06-03T14:28:51+08:00</lastmod>
@@ -72,9 +90,6 @@
     <lastmod>2024-06-03T14:28:51+08:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/real-time/</loc>
-    <lastmod>2024-06-03T14:28:51+08:00</lastmod>
-  </url><url>
-    <loc>https://yhannahl.github.io/en/tags/</loc>
     <lastmod>2024-06-03T14:28:51+08:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/visual/</loc>
@@ -92,13 +107,7 @@
     <loc>https://yhannahl.github.io/en/tags/storytelling/</loc>
     <lastmod>2024-05-12T22:05:53+02:00</lastmod>
   </url><url>
-    <loc>https://yhannahl.github.io/en/tags/3d/</loc>
-    <lastmod>2024-04-15T22:11:53+02:00</lastmod>
-  </url><url>
     <loc>https://yhannahl.github.io/en/tags/embodied/</loc>
-    <lastmod>2024-04-15T22:11:53+02:00</lastmod>
-  </url><url>
-    <loc>https://yhannahl.github.io/en/tags/playful/</loc>
     <lastmod>2024-04-15T22:11:53+02:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/digital-fabrication/</loc>
@@ -112,9 +121,6 @@
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/city-%EF%B8%8F/</loc>
     <lastmod>2024-01-14T22:15:41+02:00</lastmod>
-  </url><url>
-    <loc>https://yhannahl.github.io/en/tags/coding/</loc>
-    <lastmod>2024-01-07T22:06:53+02:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/physical-computing/</loc>
     <lastmod>2024-01-07T22:06:53+02:00</lastmod>
@@ -144,9 +150,6 @@
     <lastmod>2023-01-19T21:04:16+08:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/toy/</loc>
-    <lastmod>2023-01-19T21:04:16+08:00</lastmod>
-  </url><url>
-    <loc>https://yhannahl.github.io/en/tags/vr/</loc>
     <lastmod>2023-01-19T21:04:16+08:00</lastmod>
   </url><url>
     <loc>https://yhannahl.github.io/en/tags/facing-disaster/</loc>
