@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Playful on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/tags/playful/</link>
+    <description>Recent content in Playful on Yihan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/tags/playful/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Virtual World 🕹️</title>
+      <link>https://yhannahl.github.io/projects/codingvr/</link>
+      <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/codingvr/</guid>
+      <description>&amp;ldquo;Coding Virtual World - VR Projects - Work in Progress&amp;rdquo; &amp;ndash; Develop VR games/experiences in Unity. 1 - A simple BeatSaber game in VR &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;&amp;ndash; Details and Downloadable File Here A simple BeatSaber game in VR by YhannahL2 - A Bowling game in VR &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;&amp;ndash; Details and Downloadable File Here A Bowling Game in VR by YhannahL3 - WIP </description>
+    </item>
+    
+    <item>
+      <title>Contamination to System ❗️🌊❗️</title>
+      <link>https://yhannahl.github.io/projects/cts/</link>
+      <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/cts/</guid>
+      <description>&amp;ldquo;Contamination to System&amp;rdquo; &amp;ndash; An Embodied interactive mapping with real-time generative visual. [ &amp;lsquo;Contamination to System&amp;rsquo; explores ocean contamination and the threats to sea creatures caused by humans. When people come, trash and pollution liquid leak from their hands and bodies. I do that by using the real-time generated visual to create an embodied interactive mapping.
+The project gets inspiration from the phenomenon that some sea creatures consume man-made contamination which then combines in their body and finally flows into the sea ecosystem. ]
+&amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;Main software: Blender, TouchDesigner, StableDiffusion
+Main hardware: Zed Camera
+Audio composited using sound effects under CC0 license.
+&amp;ndash; Concept My experience in underwater diving and sea fishing in shallow sea areas provided me a glimpse into how easily the human-made would become trash and then be ‘forgotten’ in the sea. They are only small parts of the contamination humans have been making to the ocean, not to mention the pollutants that are deliberately released.</description>
+    </item>
+    
+    <item>
+      <title>Carte 🎯</title>
+      <link>https://yhannahl.github.io/projects/carte/</link>
+      <pubDate>Thu, 19 Jan 2023 21:04:16 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/carte/</guid>
+      <description>&amp;ldquo;Carte 卡尔&amp;rdquo; &amp;ndash; An Intergrated Product Design Project. [ The basics of STEM subjects are widely used in value creation and life. People are paying more and more attention to STEM education, but in the process of interacting with children it becomes clear that there is a great deal of variability in their perception of space which can lead to greater barriers to future learning. Putting aside innate factors, think about whether there can be more organized products that allow young children to better develop spatial thinking while playing. ] · Intro · Presentation</description>
+    </item>
+    
+    <item>
+      <title>KUN&#39;SI 🎞️</title>
+      <link>https://yhannahl.github.io/projects/kunsi/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/projects/kunsi/</guid>
+      <description>&amp;ldquo;KUN&amp;rsquo;SI 鲲驷&amp;rdquo; &amp;ndash; A Digital Interactive Installation. [ Cultural heritage is a constant topic of the times. But as trendy culture sweeps through the social media of young people, is traditional culture being hidden in the torrent of information? We then consider how to awaken people&amp;rsquo;s cultural awareness through the combination of technology and art in the present era, taking the culture of the Han Dynasty, the beginning of Chinese history, as an example. ] · Background · Storyline · Exhibition &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

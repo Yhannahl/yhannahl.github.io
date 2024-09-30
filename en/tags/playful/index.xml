@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Playful on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/en/tags/playful/</link>
+    <description>Recent content in Playful on Yihan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Apr 2024 22:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/playful/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contamination to System ❗️🌊❗️</title>
+      <link>https://yhannahl.github.io/en/projects/cts/</link>
+      <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
+      
+      <guid>https://yhannahl.github.io/en/projects/cts/</guid>
+      <description>&lt;h2 id=&#34;contamination-to-system&#34;&gt;&amp;ldquo;Contamination to System&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-embodied-interactive-mapping-with-real-time-generative-visual&#34;&gt;&amp;ndash; An Embodied interactive mapping with real-time generative visual.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;&amp;lsquo;Contamination to System&amp;rsquo; explores ocean contamination and the threats to sea creatures caused by humans. When people come, trash and pollution liquid leak from their hands and bodies. I do that by using the real-time generated visual to create an embodied interactive mapping.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The project gets inspiration from the phenomenon that some sea creatures consume man-made contamination which then combines in their body and finally flows into the sea ecosystem.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .youtube_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .youtube_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;youtube_shortcodes&#34;&gt;
+    &lt;iframe
+            class=&#34;youtube-player&#34;
+            type=&#34;text/html&#34;
+            width=&#34;640&#34;
+            height=&#34;385&#34;
+            src=&#34;https://www.youtube.com/embed/idy04QU6kpQ?autoplay=0&#34;
+            style=&#34;
+                 position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;
+                 border:0;&#34;
+            allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;Main software: Blender, TouchDesigner, StableDiffusion&lt;/p&gt;
+&lt;p&gt;Main hardware: Zed Camera&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Carte 🎯</title>
+      <link>https://yhannahl.github.io/en/projects/carte/</link>
+      <pubDate>Thu, 19 Jan 2023 21:04:16 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/en/projects/carte/</guid>
+      <description>&lt;h2 id=&#34;carte-卡尔&#34;&gt;&amp;ldquo;Carte 卡尔&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-intergrated-product-design-project&#34;&gt;&amp;ndash; An Intergrated Product Design Project.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;The basics of STEM subjects are widely used in value creation and life. People are paying more and more attention to STEM education, but in the process of interacting with children it becomes clear that there is a great deal of variability in their perception of space which can lead to greater barriers to future learning. Putting aside innate factors, think about whether there can be more organized products that allow young children to better develop spatial thinking while playing.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;-intro&#34;&gt;· Intro&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ct1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-presentation&#34;&gt;· Presentation&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ct2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KUN&#39;SI 🎞️</title>
+      <link>https://yhannahl.github.io/en/projects/kunsi/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      
+      <guid>https://yhannahl.github.io/en/projects/kunsi/</guid>
+      <description>&lt;h2 id=&#34;kunsi-鲲驷&#34;&gt;&amp;ldquo;KUN&amp;rsquo;SI 鲲驷&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---a-digital-interactive-installation&#34;&gt;&amp;ndash; A Digital Interactive Installation.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;Cultural heritage is a constant topic of the times. But as trendy culture sweeps through the social media of young people, is traditional culture being hidden in the torrent of information? We then consider how to awaken people&amp;rsquo;s cultural awareness through the combination of technology and art in the present era, taking the culture of the Han Dynasty, the beginning of Chinese history, as an example.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;-background&#34;&gt;· Background&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ks1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-storyline&#34;&gt;· Storyline&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ks2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-exhibition&#34;&gt;· Exhibition&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ks3.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .bilibili_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .bilibili_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;bilibili_shortcodes&#34;&gt;
+    &lt;iframe
+            src=&#34;https://player.bilibili.com/player.html?bvid=BV1xR4y1a7jK&amp;page=1&amp;high_quality=1&amp;danmaku=0&amp;as_wide=0&#34;
+            scrolling=&#34;no&#34;
+            border=&#34;0&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
