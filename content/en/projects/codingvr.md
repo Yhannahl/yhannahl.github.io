@@ -17,7 +17,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 269
+weight: 268
 cover:
     image: "projects/codingvr/codingvrCover.jpg"
     caption: "Coding Virtual World - VR Projects"
