@@ -1,5 +1,5 @@
 ﻿---
-title: "Wwwdesign - UGames - A BoardGame Social Network"
+title: "Wwwdesign - UGames - A BoardGame Social Network 🔗 (WIP)"
 date: 2024-09-29T23:13:03+03:00
 draft: false
 hidemeta: true
@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 278
 cover:
-    image: "projects/wwwdesign/wwwdesignCover.jpg"
+    image: "projects/wwwdesign/wwwCover.jpg"
     caption: "Web Application Design and Development"
     alt: ""
     relative: false
@@ -46,15 +46,23 @@ cover:
 
 </br>
 
-6 September: Group Registration
-13 September: Reserve Time for Design Meeting
-20 September: Design Meeting with Assistant
-23 September: Design Gala Slides
-27 September: Design Document
-11 October: Demo Gala Reflection
-18 October: Updated Project Plan
-29 November: Final Document
-29 November: Final Web Service
+- 6 September: Group Registration
+
+- 13 September: Reserve Time for Design Meeting
+
+- 20 September: Design Meeting with Assistant
+
+- 23 September: Design Gala Slides
+
+- 27 September: Design Document
+
+- 11 October: Demo Gala Reflection
+
+- 18 October: Updated Project Plan
+
+- 29 November: Final Document
+
+- 29 November: Final Web Service
 
 ---
 
@@ -66,8 +74,10 @@ cover:
 
 </br>
 
-UI/UX designer: Yihan
-Frontend developer: Edgar, Yihan(assistant)
-Backend developer and database administrator: Loïc, Edgar(assistant)
+- UI/UX designer: Yihan
+- 
+- Frontend developer: Edgar, Yihan(assistant)
+- 
+- Backend developer and database administrator: Loïc, Edgar(assistant)
 
 

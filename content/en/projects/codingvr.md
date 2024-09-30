@@ -1,5 +1,5 @@
 ﻿---
-title: "Coding Virtual World 🕹️"
+title: "Coding Virtual World 🕹️ (WIP)"
 date: 2024-09-30T22:11:53+02:00
 hidemeta: true
 draft: false
