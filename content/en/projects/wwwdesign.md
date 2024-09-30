@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 278
 cover:
-    image: "projects/wwwdesign/wwwdesign1.png"
+    image: "projects/codingvr/codingvrCover.jpg"
     caption: "Web Application Design and Development"
     alt: ""
     relative: false
@@ -75,9 +75,9 @@ cover:
 </br>
 
 - UI/UX designer: Yihan
-- 
+
 - Frontend developer: Edgar, Yihan(assistant)
-- 
+
 - Backend developer and database administrator: Loïc, Edgar(assistant)
 
 
