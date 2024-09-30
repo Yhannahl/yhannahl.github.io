@@ -7,10 +7,12 @@ author: ["Yihan"]
 keywords: 
 - Service Design
 tags:
-- Game Mode
+- Game
 - Teamates Matching Mechanism
 - Customization Method
 - Service
+- 3D
+- UI/UX
 
 description: ""
 showToc: true

@@ -8,9 +8,11 @@ keywords:
 - Physical Interaction
 tags:
 - Physical Computing
-- Interaction
+- Coding
+- Interactive
 - Real-time
 - Visual
+- 3D
 description: ""
 showToc: true
 TocOpen: true

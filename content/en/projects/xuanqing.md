@@ -8,15 +8,17 @@ keywords:
 - IP Design
 tags:
 - IP
+- 3D
 - Character
 - Information Design
 - Strategy
+- UI/UX
 
 description: ""
 showToc: true
 TocOpen: true
 showbreadcrumbs: true
-weight: 284
+weight: 288
 cover:
     image: "projects/xuanqing/xqcover.jpg"
     caption: "How will a new developing city show its characters?"

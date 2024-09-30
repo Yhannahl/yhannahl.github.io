@@ -8,9 +8,10 @@ keywords:
 - Embodied Interaction
 tags:
 - Real-time
-- Visual
+- 3D
 - Embodied
 - Interactive
+- Playful
 - Mapping
 description: ""
 showToc: true

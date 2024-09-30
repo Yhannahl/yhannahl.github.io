@@ -9,6 +9,7 @@ keywords:
 tags:
 - Digital Fabrication
 - Visual
+- 3D
 - Physical
 - Tool
 description: ""
@@ -16,7 +17,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 288
+weight: 284
 cover:
     image: "projects/df/dfCover.jpg"
     caption: "My Digital Fabrication Documentation Site"

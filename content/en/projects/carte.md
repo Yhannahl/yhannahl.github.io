@@ -7,10 +7,11 @@ author: ["Yihan"]
 keywords: 
 - Education
 tags:
-- Toy for Children
-- Spatial Thinking
-- Virtual & Reality
-- Learning through Play
+- Toy
+- Spatial
+- VR
+- Playful
+- UI/UX
 description: ""
 showToc: true
 TocOpen: true
