@@ -138,122 +138,35 @@ Centre – [ &lt;em&gt;2023&lt;/em&gt; ]&lt;/li&gt;
       <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
       
       <guid>https://yhannahl.github.io/en/projects/codingvr/</guid>
-      <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - Work in Progress&amp;rdquo;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---new-projects-work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;1---a-simple-beatsaber-game-in-vr&#34;&gt;1 - A simple BeatSaber game in VR&lt;/h3&gt;
+&lt;h3 id=&#34;4---wip&#34;&gt;4 - WIP&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
-&lt;!DOCTYPE HTML&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-    &lt;style type=&#34;text/css&#34;&gt;
-        .youtube_shortcodes {
-            position: relative;
-            width: 100%;
-            height: 0;
-            padding-bottom: 66%;
-            margin: auto;
-            overflow: hidden;
-            text-align: center;
-        }
-        .youtube_shortcodes iframe {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            left: 0;
-            top: 0;
-        }
-    &lt;/style&gt;
-    &lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;div class=&#34;youtube_shortcodes&#34;&gt;
-    &lt;iframe
-            class=&#34;youtube-player&#34;
-            type=&#34;text/html&#34;
-            width=&#34;640&#34;
-            height=&#34;385&#34;
-            src=&#34;https://www.youtube.com/embed/AIazzSzttZU?autoplay=0&#34;
-            style=&#34;
-                 position: absolute;
-                 top: 0;
-                 left: 0;
-                 width: 100%;
-                 height: 100%;
-                 border:0;&#34;
-            allowfullscreen frameborder=&#34;0&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+&lt;h3 id=&#34;3---nutrient-collector&#34;&gt;3 - Nutrient Collector&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;---details-and-downloadable-file-here&#34;&gt;&amp;ndash; Details and Downloadable File Here&lt;/h4&gt;
-&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed/3008254&#34; width=&#34;552&#34; height=&#34;167&#34;&gt;&lt;a href=&#34;https://yhannahl.itch.io/a-simple-beatsaber-game-invr&#34;&gt;A simple BeatSaber game in VR by YhannahL&lt;/a&gt;&lt;/iframe&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;bc1.jpg&#34; alt=&#34;&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;bc2.jpg&#34; alt=&#34;&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;bc3.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;h4 id=&#34;---draft--concept&#34;&gt;&amp;ndash; Draft &amp;amp; Concept&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;NutrientCollectorDraft.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;hr&gt;
 &lt;/br&gt;
-&lt;/br&gt;
-&lt;h3 id=&#34;2---a-bowling-game-in-vr&#34;&gt;2 - A Bowling game in VR&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---video-presentation-1&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
-&lt;!DOCTYPE HTML&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-    &lt;style type=&#34;text/css&#34;&gt;
-        .youtube_shortcodes {
-            position: relative;
-            width: 100%;
-            height: 0;
-            padding-bottom: 66%;
-            margin: auto;
-            overflow: hidden;
-            text-align: center;
-        }
-        .youtube_shortcodes iframe {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            left: 0;
-            top: 0;
-        }
-    &lt;/style&gt;
-    &lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;div class=&#34;youtube_shortcodes&#34;&gt;
-    &lt;iframe
-            class=&#34;youtube-player&#34;
-            type=&#34;text/html&#34;
-            width=&#34;640&#34;
-            height=&#34;385&#34;
-            src=&#34;https://www.youtube.com/embed/W57QhgaOG-k?autoplay=0&#34;
-            style=&#34;
-                 position: absolute;
-                 top: 0;
-                 left: 0;
-                 width: 100%;
-                 height: 100%;
-                 border:0;&#34;
-            allowfullscreen frameborder=&#34;0&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---details-and-downloadable-file-here-1&#34;&gt;&amp;ndash; Details and Downloadable File Here&lt;/h4&gt;
-&lt;iframe width=&#34;552&#34; height=&#34;167&#34; frameborder=&#34;0&#34; src=&#34;https://itch.io/embed/3008318&#34;&gt;&lt;a href=&#34;https://yhannahl.itch.io/a-bowling-game-in-vr&#34;&gt;A Bowling Game in VR by YhannahL&lt;/a&gt;&lt;/iframe&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;bowling5.jpg&#34; alt=&#34;&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;bowling2.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;Nutrient Collector - The Living World Underground&lt;/em&gt;
+by Yihan 06102024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I made this little VR game demo for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Nutrient Collector&lt;/em&gt; lets the player collect to save the nutrients that drain away from the living world underground.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WIP: Up to now, I do not have enough time to optimize the models, and I will arrange time to do this iterations later.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Game Logics:
+You first need to find and open 3 treasure boxes(you can move on the whole platform and teleport to some areas- those small discs), when completed, you will get the tool on the Right hand to &amp;lsquo;collect&amp;rsquo; the &amp;rsquo;nutrition bubbles&amp;rsquo; floating upwards from those giant underground livings.
+By pressing the &amp;lsquo;fire button&amp;rsquo;, you can use the tool to &amp;lsquo;fire energy&amp;rsquo; towards the target &amp;rsquo;nutrition bubbles&amp;rsquo; to collect them and get &amp;lsquo;scores&amp;rsquo;.
+When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if time runs out, failure. After 10s, game restart.
+You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -369,11 +282,15 @@ Centre – [ &lt;em&gt;2023&lt;/em&gt; ]&lt;/li&gt;
 &lt;h4 id=&#34;---responsibilities-for-each-group-member&#34;&gt;&amp;ndash; Responsibilities for each group member&lt;/h4&gt;
 &lt;/br&gt;
 &lt;ul&gt;
-&lt;li&gt;UI/UX designer: Yihan&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;Frontend developer: Edgar, Yihan(assistant)&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;Backend developer and database administrator: Loïc, Edgar(assistant)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;UI/UX designer: Yihan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frontend developer: Edgar, Yihan(assistant)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backend developer and database administrator: Loïc, Edgar(assistant)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     

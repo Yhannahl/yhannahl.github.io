@@ -13,7 +13,11 @@
       <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
       
       <guid>https://yhannahl.github.io/projects/codingvr/</guid>
-      <description>&amp;ldquo;Coding Virtual World - VR Projects - Work in Progress&amp;rdquo; &amp;ndash; Develop VR games/experiences in Unity. 1 - A simple BeatSaber game in VR &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;&amp;ndash; Details and Downloadable File Here A simple BeatSaber game in VR by YhannahL2 - A Bowling game in VR &amp;ndash; Video Presentation &lt;!DOCTYPE HTML&gt;&amp;ndash; Details and Downloadable File Here A Bowling Game in VR by YhannahL3 - WIP </description>
+      <description>&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo; &amp;ndash; Develop VR games/experiences in Unity. 4 - WIP 3 - Nutrient Collector &amp;ndash; Draft &amp;amp; Concept Nutrient Collector - The Living World Underground by Yihan 06102024
+I made this little VR game demo for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.
+Nutrient Collector lets the player collect to save the nutrients that drain away from the living world underground.
+WIP: Up to now, I do not have enough time to optimize the models, and I will arrange time to do this iterations later.
+Game Logics: You first need to find and open 3 treasure boxes(you can move on the whole platform and teleport to some areas- those small discs), when completed, you will get the tool on the Right hand to &amp;lsquo;collect&amp;rsquo; the &amp;rsquo;nutrition bubbles&amp;rsquo; floating upwards from those giant underground livings.</description>
     </item>
     
     <item>
@@ -46,7 +50,9 @@ Audio composited using sound effects under CC0 license.
 29 November: Final Document
 29 November: Final Web Service
 (WIP)
-&amp;ndash; Responsibilities for each group member UI/UX designer: Yihan Frontend developer: Edgar, Yihan(assistant) Backend developer and database administrator: Loïc, Edgar(assistant) </description>
+&amp;ndash; Responsibilities for each group member UI/UX designer: Yihan
+Frontend developer: Edgar, Yihan(assistant)
+Backend developer and database administrator: Loïc, Edgar(assistant)</description>
     </item>
     
     <item>
