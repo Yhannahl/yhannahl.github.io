@@ -18,7 +18,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 278
 cover:
-    image: "projects/codingvr/codingvrCover.jpg"
+    image: "projects/wwwdesign/wwwCover.jpg"
     caption: "Web Application Design and Development"
     alt: ""
     relative: false
