@@ -51,7 +51,7 @@ languages:
             url: projects 
           - name: 🏞️ Plogs
             url: plogs
-       menu:
+      menu:
         main:
           - identifier: about
             name: 🙋🏻‍♀️ About
@@ -116,8 +116,8 @@ params:
     chroma: true
     
 
-    params:
-      social:
+    
+    socialIcons:
         - name: instagram
           url: "https://www.instagram.com/yhannah.l/"
         - name: email
