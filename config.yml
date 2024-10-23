@@ -15,7 +15,8 @@ buildExpired: false
 #googleAnalytics: UA-123-45 # 谷歌统计
 # Copyright: Yihan
 
-paginate: 5    # 每页显示的文章数
+pagination:
+  pagerSize: 5    # 每页显示的文章数
 summaryLength: 140 # 文章概览的自字数，默认70
 minify:
     disableXML: true
@@ -34,7 +35,8 @@ languages:
       contentDir: content/en
       weight: 1
 
-      profileMode:
+      params:
+       profileMode:
         enabled: true
         title: 娄忆晗 Yihan Lou
         subtitle: "👏🏼 Welcome to my website !<br/>👇 Contact me here :-)"
@@ -49,7 +51,7 @@ languages:
             url: projects 
           - name: 🏞️ Plogs
             url: plogs
-      menu:
+       menu:
         main:
           - identifier: about
             name: 🙋🏻‍♀️ About
@@ -112,7 +114,9 @@ params:
 
     comments: true
     
-    socialIcons:
+
+    params:
+      socialIcons:
         - name: instagram
           url: "https://www.instagram.com/yhannah.l/"
         - name: email
