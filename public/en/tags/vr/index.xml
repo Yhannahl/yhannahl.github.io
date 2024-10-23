@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VR on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/en/tags/vr/</link>
+    <description>Recent content in VR on Yihan&#39;s Website</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Virtual World 🕹️ (WIP)</title>
+      <link>https://yhannahl.github.io/en/projects/codingvr/</link>
+      <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/codingvr/</guid>
+      <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---new-projects-work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4---wip&#34;&gt;4 - WIP&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3---nutrient-collector&#34;&gt;3 - Nutrient Collector&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;---draft--concept&#34;&gt;&amp;ndash; Draft &amp;amp; Concept&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;NutrientCollectorDraft.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;em&gt;Nutrient Collector - The Living World Underground&lt;/em&gt;
+by Yihan 06102024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I made this little VR game demo for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Nutrient Collector&lt;/em&gt; lets the player collect to save the nutrients that drain away from the living world underground.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WIP: Up to now, I do not have enough time to optimize the models, and I will arrange time to do this iterations later.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Game Logics:
+You first need to find and open 3 treasure boxes(you can move on the whole platform and teleport to some areas- those small discs), when completed, you will get the tool on the Right hand to &amp;lsquo;collect&amp;rsquo; the &amp;rsquo;nutrition bubbles&amp;rsquo; floating upwards from those giant underground livings.
+By pressing the &amp;lsquo;fire button&amp;rsquo;, you can use the tool to &amp;lsquo;fire energy&amp;rsquo; towards the target &amp;rsquo;nutrition bubbles&amp;rsquo; to collect them and get &amp;lsquo;scores&amp;rsquo;.
+When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if time runs out, failure. After 10s, game restart.
+You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Carte 🎯</title>
+      <link>https://yhannahl.github.io/en/projects/carte/</link>
+      <pubDate>Thu, 19 Jan 2023 21:04:16 +0800</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/carte/</guid>
+      <description>&lt;h2 id=&#34;carte-卡尔&#34;&gt;&amp;ldquo;Carte 卡尔&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-intergrated-product-design-project&#34;&gt;&amp;ndash; An Intergrated Product Design Project.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;The basics of STEM subjects are widely used in value creation and life. People are paying more and more attention to STEM education, but in the process of interacting with children it becomes clear that there is a great deal of variability in their perception of space which can lead to greater barriers to future learning. Putting aside innate factors, think about whether there can be more organized products that allow young children to better develop spatial thinking while playing.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;-intro&#34;&gt;· Intro&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ct1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-presentation&#34;&gt;· Presentation&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ct2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

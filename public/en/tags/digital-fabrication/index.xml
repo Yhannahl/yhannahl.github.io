@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital Fabrication on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/en/tags/digital-fabrication/</link>
+    <description>Recent content in Digital Fabrication on Yihan&#39;s Website</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Apr 2024 20:11:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/digital-fabrication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Fabrication Documentation 🔧</title>
+      <link>https://yhannahl.github.io/en/projects/df/</link>
+      <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/df/</guid>
+      <description>&lt;p&gt;[ &lt;em&gt;Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here.
+&lt;a href=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34;&gt;Welcome to check them out :D&lt;/a&gt;&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;iframe src=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;
+&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

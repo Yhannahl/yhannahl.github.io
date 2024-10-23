@@ -113,10 +113,11 @@ params:
     TocOpen: true # 自动展开目录
 
     comments: true
+    chroma: true
     
 
     params:
-      socialIcons:
+      social:
         - name: instagram
           url: "https://www.instagram.com/yhannah.l/"
         - name: email

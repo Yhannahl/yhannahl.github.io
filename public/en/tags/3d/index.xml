@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/en/tags/3d/</link>
+    <description>Recent content in 3D on Yihan&#39;s Website</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Virtual World 🕹️ (WIP)</title>
+      <link>https://yhannahl.github.io/en/projects/codingvr/</link>
+      <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/codingvr/</guid>
+      <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---new-projects-work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4---wip&#34;&gt;4 - WIP&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3---nutrient-collector&#34;&gt;3 - Nutrient Collector&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;---draft--concept&#34;&gt;&amp;ndash; Draft &amp;amp; Concept&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;NutrientCollectorDraft.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;em&gt;Nutrient Collector - The Living World Underground&lt;/em&gt;
+by Yihan 06102024&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I made this little VR game demo for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Nutrient Collector&lt;/em&gt; lets the player collect to save the nutrients that drain away from the living world underground.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WIP: Up to now, I do not have enough time to optimize the models, and I will arrange time to do this iterations later.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Game Logics:
+You first need to find and open 3 treasure boxes(you can move on the whole platform and teleport to some areas- those small discs), when completed, you will get the tool on the Right hand to &amp;lsquo;collect&amp;rsquo; the &amp;rsquo;nutrition bubbles&amp;rsquo; floating upwards from those giant underground livings.
+By pressing the &amp;lsquo;fire button&amp;rsquo;, you can use the tool to &amp;lsquo;fire energy&amp;rsquo; towards the target &amp;rsquo;nutrition bubbles&amp;rsquo; to collect them and get &amp;lsquo;scores&amp;rsquo;.
+When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if time runs out, failure. After 10s, game restart.
+You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contamination to System ❗️🌊❗️</title>
+      <link>https://yhannahl.github.io/en/projects/cts/</link>
+      <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/cts/</guid>
+      <description>&lt;h2 id=&#34;contamination-to-system&#34;&gt;&amp;ldquo;Contamination to System&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-embodied-interactive-mapping-with-real-time-generative-visual&#34;&gt;&amp;ndash; An Embodied interactive mapping with real-time generative visual.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;&amp;lsquo;Contamination to System&amp;rsquo; explores ocean contamination and the threats to sea creatures caused by humans. When people come, trash and pollution liquid leak from their hands and bodies. I do that by using the real-time generated visual to create an embodied interactive mapping.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The project gets inspiration from the phenomenon that some sea creatures consume man-made contamination which then combines in their body and finally flows into the sea ecosystem.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .youtube_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .youtube_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;youtube_shortcodes&#34;&gt;
+    &lt;iframe
+            class=&#34;youtube-player&#34;
+            type=&#34;text/html&#34;
+            width=&#34;640&#34;
+            height=&#34;385&#34;
+            src=&#34;https://www.youtube.com/embed/idy04QU6kpQ?autoplay=0&#34;
+            style=&#34;
+                 position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;
+                 border:0;&#34;
+            allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;Main software: Blender, TouchDesigner, StableDiffusion&lt;/p&gt;
+&lt;p&gt;Main hardware: Zed Camera&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blossom to Soar 🦋</title>
+      <link>https://yhannahl.github.io/en/projects/bts/</link>
+      <pubDate>Sun, 07 Jan 2024 22:06:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/bts/</guid>
+      <description>&lt;h2 id=&#34;blossom-to-soar&#34;&gt;&amp;ldquo;Blossom to Soar&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-interactive-installation-with-physical-controller-and-generative-visuals&#34;&gt;&amp;ndash; An Interactive installation with physical controller and generative visuals.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;&amp;lsquo;Blossom to Soar&amp;rsquo; is an interactive installation with generative visuals, exploring the contrast between freedom and bondage, and the creativity of nature.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;By picking up the flower pot and then tilting it, grow your digital butterfly orchid and release into the posture of flying butterflies, presenting a magical dance of digital and nature.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;blossom01.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;---concept&#34;&gt;&amp;ndash; Concept&lt;/h4&gt;
+&lt;p&gt;Phalaenopsis, commonly known as butterfly orchids.&lt;/p&gt;
+&lt;p&gt;The name &amp;lsquo;Phalaenopsis&amp;rsquo; comes from two Greek words, &amp;lsquo;Phalaina&amp;rsquo; (meaning moth or butterfly) and &amp;lsquo;opsis&amp;rsquo; (meaning similar). Therefore, &amp;lsquo;Phalaenopsis&amp;rsquo; translates to &amp;lsquo;plant resembling a butterfly.&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.&lt;/p&gt;
+&lt;p&gt;Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation &amp;amp; returning between Butterfly Orchids &amp;amp; Butterflies, combining with participant&amp;rsquo;s involvements. The plant with its free spirit to discuss the Freedom &amp;amp; Bondage of Life and convey the message of breaking through limitations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Fabrication Documentation 🔧</title>
+      <link>https://yhannahl.github.io/en/projects/df/</link>
+      <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/df/</guid>
+      <description>&lt;p&gt;[ &lt;em&gt;Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here.
+&lt;a href=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34;&gt;Welcome to check them out :D&lt;/a&gt;&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;iframe src=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>XUAN&#39;QING TEAM 🏙️</title>
+      <link>https://yhannahl.github.io/en/projects/xuanqing/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/xuanqing/</guid>
+      <description>&lt;h2 id=&#34;xuanqing-team-玄青家族&#34;&gt;&amp;ldquo;XUAN&amp;rsquo;QING TEAM 玄青家族&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-integreted-city-ip-design-project&#34;&gt;&amp;ndash; An Integreted City IP Design Project.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;The construction of new suburban cities is an important direction in the development of urbanisation in China today. However, the lack of and convergence in the external image of cities has prevented most of the &amp;rsquo;new cities&amp;rsquo; from making an impression on the wider public.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;XUANQINGTEAM is a set of comprehensive urban IP system design and planning for Qingpu, which is based on the characteristics and advantages of Qingpu development, using design thinking to operate and express, to leave a memory point in the city promotion process, and make the city information be more effectively accessed, thus improving the city&amp;rsquo;s external image and helping the city to further develop.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .youtube_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .youtube_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;youtube_shortcodes&#34;&gt;
+    &lt;iframe
+            class=&#34;youtube-player&#34;
+            type=&#34;text/html&#34;
+            width=&#34;640&#34;
+            height=&#34;385&#34;
+            src=&#34;https://www.youtube.com/embed/KX_qQB-OCPQ?autoplay=0&#34;
+            style=&#34;
+                 position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;
+                 border:0;&#34;
+            allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h5 id=&#34;-ip-characters-designed-from-peoples-feeling-of-the-city&#34;&gt;· IP Characters Designed from people&amp;rsquo;s feeling of the City&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;xq1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KUN&#39;SI 🎞️</title>
+      <link>https://yhannahl.github.io/en/projects/kunsi/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/kunsi/</guid>
+      <description>&lt;h2 id=&#34;kunsi-鲲驷&#34;&gt;&amp;ldquo;KUN&amp;rsquo;SI 鲲驷&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---a-digital-interactive-installation&#34;&gt;&amp;ndash; A Digital Interactive Installation.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;Cultural heritage is a constant topic of the times. But as trendy culture sweeps through the social media of young people, is traditional culture being hidden in the torrent of information? We then consider how to awaken people&amp;rsquo;s cultural awareness through the combination of technology and art in the present era, taking the culture of the Han Dynasty, the beginning of Chinese history, as an example.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;-background&#34;&gt;· Background&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ks1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-storyline&#34;&gt;· Storyline&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ks2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-exhibition&#34;&gt;· Exhibition&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ks3.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .bilibili_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .bilibili_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;bilibili_shortcodes&#34;&gt;
+    &lt;iframe
+            src=&#34;https://player.bilibili.com/player.html?bvid=BV1xR4y1a7jK&amp;page=1&amp;high_quality=1&amp;danmaku=0&amp;as_wide=0&#34;
+            scrolling=&#34;no&#34;
+            border=&#34;0&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    <item>
+      <title>VR ESCAPE 😶‍🌫️</title>
+      <link>https://yhannahl.github.io/en/projects/vrescape/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/vrescape/</guid>
+      <description>&lt;h2 id=&#34;vr-escape&#34;&gt;&amp;ldquo;VR ESCAPE&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---service-oriented-entertainment-design&#34;&gt;&amp;ndash; Service-oriented Entertainment Design.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;Social &amp;amp; emotional experience-based escape room-type live entertainment industry, gradually become a popular mode of entertainment for young groups today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;However, the mode of the existing escape room game experience makes the game experience of players discounted. Consider the reasons for this and the design to enhance the game experience for players.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;-intro&#34;&gt;· Intro&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ve1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;-presentation&#34;&gt;· Presentation&lt;/h5&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ve2.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;ve3.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dora Bird Feeder 🕊️</title>
+      <link>https://yhannahl.github.io/en/projects/dora/</link>
+      <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/dora/</guid>
+      <description>&lt;h2 id=&#34;dora-bird-feeder-鸟类喂食器&#34;&gt;&amp;ldquo;Dora Bird Feeder 鸟类喂食器&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-upcycling-product&#34;&gt;&amp;ndash; An Upcycling Product.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;Dora is a bird feeder made from recycled square packaging gift boxes. The material handling method reduces energy waste as much as possible, and the recycled gift box is assembled with 3D printed accessories that can be used for a long time to continue the use value of the composite paper itself. In terms of styling and decoration, the combination of rattan patterns enhances the decoration, and at the same time increases the possibility of interaction between the bird and the product, thus bringing a richer experience to the observer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The overall purpose of the project is to create a story between humans and natural creatures by enhancing the friendly interaction between humans and natural animals, and to convey the value of sustainable and harmonious development to the society.&lt;/em&gt; ]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

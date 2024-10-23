@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Visual on Yihan&#39;s Website</title>
+    <link>https://yhannahl.github.io/en/tags/visual/</link>
+    <description>Recent content in Visual on Yihan&#39;s Website</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jun 2024 14:28:51 +0800</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/visual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AN ORDINARY ROOM 🚪</title>
+      <link>https://yhannahl.github.io/en/projects/anordinaryroom/</link>
+      <pubDate>Mon, 03 Jun 2024 14:28:51 +0800</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/anordinaryroom/</guid>
+      <description>&lt;h2 id=&#34;an-ordinary-room-&#34;&gt;&amp;ldquo;AN ORDINARY ROOM 🚪&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---a-contextualized-digital-art-project-about-fear-aroused-by-the-creature-cockroach-that-appeared-on-a-normal-day-in-tropical-cities&#34;&gt;&amp;ndash; A contextualized digital art project about fear aroused by the creature, cockroach, that appeared on a normal day in tropical cities.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;This is an ordinary room. We sit on the couch. We talk. We laugh. We find out something approach. We were scared and we screamed. We finally slap. This is an ordinary normal life.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;When engaged in ordinary conversation, suddenly, a mysterious and terrifying cockroach scurries into the room. The fear it elicits is universal, transcending cultural boundaries. Our goal is to recreate this experience virtually, triggering memories for those who’ve encountered these resilient creatures and introducing the sensation to those who haven’t.&lt;/em&gt;]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;---interaction-design&#34;&gt;&amp;ndash; Interaction Design&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;anor0.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;---process-test-video&#34;&gt;&amp;ndash; Process: Test Video&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .youtube_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .youtube_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;youtube_shortcodes&#34;&gt;
+    &lt;iframe
+            class=&#34;youtube-player&#34;
+            type=&#34;text/html&#34;
+            width=&#34;640&#34;
+            height=&#34;385&#34;
+            src=&#34;https://www.youtube.com/embed/t1QFFSKzre4?autoplay=0&#34;
+            style=&#34;
+                 position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;
+                 border:0;&#34;
+            allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h4 id=&#34;---project-reflection&#34;&gt;&amp;ndash; Project Reflection&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;anor1.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;anor2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blossom to Soar 🦋</title>
+      <link>https://yhannahl.github.io/en/projects/bts/</link>
+      <pubDate>Sun, 07 Jan 2024 22:06:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/bts/</guid>
+      <description>&lt;h2 id=&#34;blossom-to-soar&#34;&gt;&amp;ldquo;Blossom to Soar&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;---an-interactive-installation-with-physical-controller-and-generative-visuals&#34;&gt;&amp;ndash; An Interactive installation with physical controller and generative visuals.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;[ &lt;em&gt;&amp;lsquo;Blossom to Soar&amp;rsquo; is an interactive installation with generative visuals, exploring the contrast between freedom and bondage, and the creativity of nature.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;By picking up the flower pot and then tilting it, grow your digital butterfly orchid and release into the posture of flying butterflies, presenting a magical dance of digital and nature.&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;blossom01.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;---concept&#34;&gt;&amp;ndash; Concept&lt;/h4&gt;
+&lt;p&gt;Phalaenopsis, commonly known as butterfly orchids.&lt;/p&gt;
+&lt;p&gt;The name &amp;lsquo;Phalaenopsis&amp;rsquo; comes from two Greek words, &amp;lsquo;Phalaina&amp;rsquo; (meaning moth or butterfly) and &amp;lsquo;opsis&amp;rsquo; (meaning similar). Therefore, &amp;lsquo;Phalaenopsis&amp;rsquo; translates to &amp;lsquo;plant resembling a butterfly.&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.&lt;/p&gt;
+&lt;p&gt;Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation &amp;amp; returning between Butterfly Orchids &amp;amp; Butterflies, combining with participant&amp;rsquo;s involvements. The plant with its free spirit to discuss the Freedom &amp;amp; Bondage of Life and convey the message of breaking through limitations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Fabrication Documentation 🔧</title>
+      <link>https://yhannahl.github.io/en/projects/df/</link>
+      <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
+      <guid>https://yhannahl.github.io/en/projects/df/</guid>
+      <description>&lt;p&gt;[ &lt;em&gt;Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here.
+&lt;a href=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34;&gt;Welcome to check them out :D&lt;/a&gt;&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr&gt;
+&lt;iframe src=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;
+&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
