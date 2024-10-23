@@ -4,14 +4,14 @@
     <title>Daily Life on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/daily-life/</link>
     <description>Recent content in Daily Life on Yihan&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jan 2020 23:28:51 +0800</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/daily-life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2020 23:28:51 +0800</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/daily-life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roll-up Stool 2020 🗞️</title>
       <link>https://yhannahl.github.io/en/projects/rollup/</link>
       <pubDate>Thu, 16 Jan 2020 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/rollup/</guid>
       <description>&lt;h2 id=&#34;roll-up-stool-卷垫凳&#34;&gt;&amp;ldquo;Roll-up Stool 卷垫凳&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-upcycling-product&#34;&gt;&amp;ndash; An Upcycling Product.&lt;/h3&gt;
@@ -33,6 +33,5 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;rollup7.JPG&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,14 +4,14 @@
     <title>Playful on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/playful/</link>
     <description>Recent content in Playful on Yihan&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/playful/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/playful/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Virtual World 🕹️ (WIP)</title>
       <link>https://yhannahl.github.io/en/projects/codingvr/</link>
       <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/codingvr/</guid>
       <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---new-projects-work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
@@ -43,12 +43,10 @@ By pressing the &amp;lsquo;fire button&amp;rsquo;, you can use the tool to &amp;
 When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if time runs out, failure. After 10s, game restart.
 You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contamination to System ❗️🌊❗️</title>
       <link>https://yhannahl.github.io/en/projects/cts/</link>
       <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/cts/</guid>
       <description>&lt;h2 id=&#34;contamination-to-system&#34;&gt;&amp;ldquo;Contamination to System&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-embodied-interactive-mapping-with-real-time-generative-visual&#34;&gt;&amp;ndash; An Embodied interactive mapping with real-time generative visual.&lt;/h3&gt;
@@ -103,12 +101,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;Main software: Blender, TouchDesigner, StableDiffusion&lt;/p&gt;
 &lt;p&gt;Main hardware: Zed Camera&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wwwdesign - UGames - A BoardGame Social Network 🔗 (WIP)</title>
       <link>https://yhannahl.github.io/en/projects/wwwdesign/</link>
       <pubDate>Sun, 29 Sep 2024 23:13:03 +0300</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/wwwdesign/</guid>
       <description>&lt;h2 id=&#34;ugames---a-boardgame-social-network---work-in-progress&#34;&gt;&amp;ldquo;UGames - A BoardGame Social Network - Work in Progress&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---web-application-design-and-development&#34;&gt;&amp;ndash; Web Application Design and Development&lt;/h3&gt;
@@ -168,12 +164,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Carte 🎯</title>
       <link>https://yhannahl.github.io/en/projects/carte/</link>
       <pubDate>Thu, 19 Jan 2023 21:04:16 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/carte/</guid>
       <description>&lt;h2 id=&#34;carte-卡尔&#34;&gt;&amp;ldquo;Carte 卡尔&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-intergrated-product-design-project&#34;&gt;&amp;ndash; An Intergrated Product Design Project.&lt;/h3&gt;
@@ -187,12 +181,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ct2.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>KUN&#39;SI 🎞️</title>
       <link>https://yhannahl.github.io/en/projects/kunsi/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/kunsi/</guid>
       <description>&lt;h2 id=&#34;kunsi-鲲驷&#34;&gt;&amp;ldquo;KUN&amp;rsquo;SI 鲲驷&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-digital-interactive-installation&#34;&gt;&amp;ndash; A Digital Interactive Installation.&lt;/h3&gt;
@@ -247,6 +239,5 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;/body&gt;
 &lt;/html&gt;</description>
     </item>
-    
   </channel>
 </rss>

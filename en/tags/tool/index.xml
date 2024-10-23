@@ -4,14 +4,14 @@
     <title>Tool on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/tool/</link>
     <description>Recent content in Tool on Yihan&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 20:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 20:11:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Fabrication Documentation 🔧</title>
       <link>https://yhannahl.github.io/en/projects/df/</link>
       <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/df/</guid>
       <description>&lt;p&gt;[ &lt;em&gt;Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here.
 &lt;a href=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34;&gt;Welcome to check them out :D&lt;/a&gt;&lt;/em&gt; ]&lt;/p&gt;
@@ -19,6 +19,5 @@
 &lt;iframe src=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;</description>
     </item>
-    
   </channel>
 </rss>

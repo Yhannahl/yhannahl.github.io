@@ -4,14 +4,14 @@
     <title>Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/</link>
     <description>Recent content on Yihan&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 🙋🏻‍♀️</title>
       <link>https://yhannahl.github.io/en/about/aboutme/</link>
       <pubDate>Fri, 20 Jan 2023 19:27:04 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/about/aboutme/</guid>
       <description>&lt;h2 id=&#34;hi-im-yihan-a-designer--maker-now-studying-new-media-master-at-aalto-university&#34;&gt;Hi, I&amp;rsquo;m Yihan, a Designer &amp;amp; Maker, now studying New Media Master at Aalto University!💡&lt;/h2&gt;
 &lt;br/&gt;
@@ -131,12 +131,10 @@ Centre – [ &lt;em&gt;2023&lt;/em&gt; ]&lt;/li&gt;
 &lt;br/&gt;&amp;ndash; [ &lt;em&gt;Guide young children to use digital methods to create models and use 3D-printing.&lt;/em&gt; ]&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Coding Virtual World 🕹️ (WIP)</title>
       <link>https://yhannahl.github.io/en/projects/codingvr/</link>
       <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/codingvr/</guid>
       <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---new-projects-work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
@@ -168,12 +166,10 @@ By pressing the &amp;lsquo;fire button&amp;rsquo;, you can use the tool to &amp;
 When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if time runs out, failure. After 10s, game restart.
 You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contamination to System ❗️🌊❗️</title>
       <link>https://yhannahl.github.io/en/projects/cts/</link>
       <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/cts/</guid>
       <description>&lt;h2 id=&#34;contamination-to-system&#34;&gt;&amp;ldquo;Contamination to System&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-embodied-interactive-mapping-with-real-time-generative-visual&#34;&gt;&amp;ndash; An Embodied interactive mapping with real-time generative visual.&lt;/h3&gt;
@@ -228,12 +224,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;Main software: Blender, TouchDesigner, StableDiffusion&lt;/p&gt;
 &lt;p&gt;Main hardware: Zed Camera&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wwwdesign - UGames - A BoardGame Social Network 🔗 (WIP)</title>
       <link>https://yhannahl.github.io/en/projects/wwwdesign/</link>
       <pubDate>Sun, 29 Sep 2024 23:13:03 +0300</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/wwwdesign/</guid>
       <description>&lt;h2 id=&#34;ugames---a-boardgame-social-network---work-in-progress&#34;&gt;&amp;ldquo;UGames - A BoardGame Social Network - Work in Progress&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---web-application-design-and-development&#34;&gt;&amp;ndash; Web Application Design and Development&lt;/h3&gt;
@@ -293,12 +287,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>AN ORDINARY ROOM 🚪</title>
       <link>https://yhannahl.github.io/en/projects/anordinaryroom/</link>
       <pubDate>Mon, 03 Jun 2024 14:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/anordinaryroom/</guid>
       <description>&lt;h2 id=&#34;an-ordinary-room-&#34;&gt;&amp;ldquo;AN ORDINARY ROOM 🚪&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-contextualized-digital-art-project-about-fear-aroused-by-the-creature-cockroach-that-appeared-on-a-normal-day-in-tropical-cities&#34;&gt;&amp;ndash; A contextualized digital art project about fear aroused by the creature, cockroach, that appeared on a normal day in tropical cities.&lt;/h3&gt;
@@ -359,12 +351,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;img loading=&#34;lazy&#34; src=&#34;anor2.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blossom to Soar 🦋</title>
       <link>https://yhannahl.github.io/en/projects/bts/</link>
       <pubDate>Sun, 07 Jan 2024 22:06:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/bts/</guid>
       <description>&lt;h2 id=&#34;blossom-to-soar&#34;&gt;&amp;ldquo;Blossom to Soar&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-interactive-installation-with-physical-controller-and-generative-visuals&#34;&gt;&amp;ndash; An Interactive installation with physical controller and generative visuals.&lt;/h3&gt;
@@ -380,12 +370,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.&lt;/p&gt;
 &lt;p&gt;Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation &amp;amp; returning between Butterfly Orchids &amp;amp; Butterflies, combining with participant&amp;rsquo;s involvements. The plant with its free spirit to discuss the Freedom &amp;amp; Bondage of Life and convey the message of breaking through limitations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Digital Fabrication Documentation 🔧</title>
       <link>https://yhannahl.github.io/en/projects/df/</link>
       <pubDate>Wed, 03 Apr 2024 20:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/df/</guid>
       <description>&lt;p&gt;[ &lt;em&gt;Here links the site I document some of my Digital Fabrication learning and practicing process. I will continually update something about digital makings here.
 &lt;a href=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34;&gt;Welcome to check them out :D&lt;/a&gt;&lt;/em&gt; ]&lt;/p&gt;
@@ -393,12 +381,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;iframe src=&#34;https://yhannahlou1.gitlab.io/yh-digital-fabrication/&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Echo of Natureland 👂🏻</title>
       <link>https://yhannahl.github.io/en/projects/echoofnatureland/</link>
       <pubDate>Sun, 12 May 2024 22:05:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/echoofnatureland/</guid>
       <description>&lt;h2 id=&#34;echo-of-natureland&#34;&gt;&amp;ldquo;Echo of Natureland&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-audio-reactive-ai-generative-visual-project-with-a-dramaturgical-story&#34;&gt;&amp;ndash; An Audio-reactive AI Generative Visual Project with a Dramaturgical Story.&lt;/h3&gt;
@@ -472,12 +458,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon7.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>XUAN&#39;QING TEAM 🏙️</title>
       <link>https://yhannahl.github.io/en/projects/xuanqing/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/xuanqing/</guid>
       <description>&lt;h2 id=&#34;xuanqing-team-玄青家族&#34;&gt;&amp;ldquo;XUAN&amp;rsquo;QING TEAM 玄青家族&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-integreted-city-ip-design-project&#34;&gt;&amp;ndash; An Integreted City IP Design Project.&lt;/h3&gt;
@@ -533,12 +517,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;xq1.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ges.edu 👌🏻</title>
       <link>https://yhannahl.github.io/en/projects/gesedu/</link>
       <pubDate>Thu, 19 Jan 2023 21:04:32 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/gesedu/</guid>
       <description>&lt;h2 id=&#34;gesedu-基于手势辅助的幼教系统&#34;&gt;&amp;ldquo;Ges.edu 基于手势辅助的幼教系统&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---gesture-assisted-early-childhood-education-platform&#34;&gt;&amp;ndash; Gesture-assisted Early Childhood Education Platform.&lt;/h3&gt;
@@ -556,12 +538,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;h4 id=&#34;interaction-design&#34;&gt;Interaction Design&lt;/h4&gt;
 &lt;iframe style=&#34;border: 1px solid rgba(0, 0, 0, 0.1);&#34; width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk581mhaUuwRK7eYkadpbO%2FGes.edu%3Fpage-id%3D0%253A1%26node-id%3D2-2%26viewport%3D585%252C291%252C0.18%26t%3DGCBvJGvHVPFArknT-1%26scaling%3Dscale-down%26starting-point-node-id%3D18%253A14&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
-    
     <item>
       <title>Carte 🎯</title>
       <link>https://yhannahl.github.io/en/projects/carte/</link>
       <pubDate>Thu, 19 Jan 2023 21:04:16 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/carte/</guid>
       <description>&lt;h2 id=&#34;carte-卡尔&#34;&gt;&amp;ldquo;Carte 卡尔&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-intergrated-product-design-project&#34;&gt;&amp;ndash; An Intergrated Product Design Project.&lt;/h3&gt;
@@ -575,12 +555,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;ct2.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>KUN&#39;SI 🎞️</title>
       <link>https://yhannahl.github.io/en/projects/kunsi/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/kunsi/</guid>
       <description>&lt;h2 id=&#34;kunsi-鲲驷&#34;&gt;&amp;ldquo;KUN&amp;rsquo;SI 鲲驷&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-digital-interactive-installation&#34;&gt;&amp;ndash; A Digital Interactive Installation.&lt;/h3&gt;
@@ -635,12 +613,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;/body&gt;
 &lt;/html&gt;</description>
     </item>
-    
     <item>
       <title>DOU&#39;DOU 🦾</title>
       <link>https://yhannahl.github.io/en/projects/doudou/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/doudou/</guid>
       <description>&lt;h2 id=&#34;doudou-兜兜淘梦&#34;&gt;&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-experimental-new-media-project&#34;&gt;&amp;ndash; An Experimental New Media Project.&lt;/h3&gt;
@@ -699,12 +675,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;/body&gt;
 &lt;/html&gt;</description>
     </item>
-    
     <item>
       <title>InterReaction 🎙️</title>
       <link>https://yhannahl.github.io/en/projects/ir/</link>
       <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/ir/</guid>
       <description>&lt;h2 id=&#34;interreaction&#34;&gt;&amp;ldquo;InterReaction&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
@@ -712,12 +686,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;[ &lt;em&gt;InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.&lt;/em&gt; ]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Record 23-24 🎄 &amp; New year Journey in South and West Europe</title>
       <link>https://yhannahl.github.io/en/plogs/2324eutrip/</link>
       <pubDate>Sun, 14 Jan 2024 22:15:41 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/plogs/2324eutrip/</guid>
       <description>&lt;h3 id=&#34;rambling-around-cities--&#34;&gt;&amp;ldquo;Rambling around cities * 📷🌄🌅🏙️🌉⛪️&amp;rdquo;&lt;/h3&gt;
 &lt;h4 id=&#34;---cultural-buildings-historical-sites-natural-landscape-see-and-feel-get-energy-from-the-experience&#34;&gt;&amp;ndash; Cultural buildings, historical sites, natural landscape&amp;hellip; See and feel, get energy from the experience.&lt;/h4&gt;
@@ -767,12 +739,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;/body&gt;
 &lt;/html&gt;</description>
     </item>
-    
     <item>
       <title>VR ESCAPE 😶‍🌫️</title>
       <link>https://yhannahl.github.io/en/projects/vrescape/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/vrescape/</guid>
       <description>&lt;h2 id=&#34;vr-escape&#34;&gt;&amp;ldquo;VR ESCAPE&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---service-oriented-entertainment-design&#34;&gt;&amp;ndash; Service-oriented Entertainment Design.&lt;/h3&gt;
@@ -789,12 +759,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;img loading=&#34;lazy&#34; src=&#34;ve3.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ramble in Hangzhou 杭州 💙</title>
       <link>https://yhannahl.github.io/en/plogs/2307hz/</link>
       <pubDate>Wed, 02 Aug 2023 14:54:09 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/plogs/2307hz/</guid>
       <description>&lt;h3 id=&#34;changes-in-hangzhou-2023&#34;&gt;&amp;ldquo;Changes in Hangzhou 2023&amp;rdquo;&lt;/h3&gt;
 &lt;h4 id=&#34;---architecture-and-its-cotton-candy-&#34;&gt;&amp;ndash; Architecture and its &amp;lsquo;Cotton Candy&amp;rsquo; ☁&lt;/h4&gt;
@@ -819,12 +787,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;img loading=&#34;lazy&#34; src=&#34;hz23079.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>FamiPie 🎈</title>
       <link>https://yhannahl.github.io/en/projects/famipie/</link>
       <pubDate>Wed, 18 Jan 2023 11:32:24 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/famipie/</guid>
       <description>&lt;h2 id=&#34;famipie-派家&#34;&gt;&amp;ldquo;FamiPie 派家&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-rapid-response-housing-product-for-the-aftermath-of-an-earthquake&#34;&gt;&amp;ndash; A rapid response housing product for the aftermath of an earthquake.&lt;/h3&gt;
@@ -832,12 +798,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;[ &lt;em&gt;FamiPie is a modular air film placement space for PTSD patients after the earthquake. Fami refers to family, representing family; Pie is a description of the appearance of the product.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;By using a membrane instead of a hard ceiling, PTSD patients are liberated from the worries of &amp;ldquo;the disaster of extinction&amp;rdquo;, even if it collapses, it will not hurt people at all; by using arc language, subvert the square style of traditional buildings, let The patient enters the unique past environment, quickly escapes from the aftermath of the disaster, and accelerates forgetting the trauma; the two hard plates are like open books, forming a stable triangle. FamiPie expands according to the size of the family to ensure sufficient living space for the individual; realizes regional division through modules and no longer feels &amp;ldquo;placed&amp;rdquo;; through the formation of settlements, families can help each other to overcome difficulties together. At the same time, the arc shape makes the arrangement style no longer like a private soldier fighting like a slab house, but rich in layers, with no end in sight at a glance.&lt;/em&gt;]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2022 In Xishuangbanna 西双版纳 🌴</title>
       <link>https://yhannahl.github.io/en/plogs/xsbn/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/plogs/xsbn/</guid>
       <description>&lt;h3 id=&#34;xishuangbanna-yunnan-province-china-2022&#34;&gt;&amp;ldquo;Xishuangbanna, Yunnan Province, China, 2022&amp;rdquo;&lt;/h3&gt;
 &lt;h4 id=&#34;---overlooking-the-city-centre-in-a-days-light--&#34;&gt;&amp;ndash; Overlooking the city centre in a day&amp;rsquo;s light ;-)&lt;/h4&gt;
@@ -851,12 +815,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;img loading=&#34;lazy&#34; src=&#34;xsbn4.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dora Bird Feeder 🕊️</title>
       <link>https://yhannahl.github.io/en/projects/dora/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/dora/</guid>
       <description>&lt;h2 id=&#34;dora-bird-feeder-鸟类喂食器&#34;&gt;&amp;ldquo;Dora Bird Feeder 鸟类喂食器&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-upcycling-product&#34;&gt;&amp;ndash; An Upcycling Product.&lt;/h3&gt;
@@ -864,12 +826,10 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;p&gt;[ &lt;em&gt;Dora is a bird feeder made from recycled square packaging gift boxes. The material handling method reduces energy waste as much as possible, and the recycled gift box is assembled with 3D printed accessories that can be used for a long time to continue the use value of the composite paper itself. In terms of styling and decoration, the combination of rattan patterns enhances the decoration, and at the same time increases the possibility of interaction between the bird and the product, thus bringing a richer experience to the observer.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The overall purpose of the project is to create a story between humans and natural creatures by enhancing the friendly interaction between humans and natural animals, and to convey the value of sustainable and harmonious development to the society.&lt;/em&gt; ]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Roll-up Stool 2020 🗞️</title>
       <link>https://yhannahl.github.io/en/projects/rollup/</link>
       <pubDate>Thu, 16 Jan 2020 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/rollup/</guid>
       <description>&lt;h2 id=&#34;roll-up-stool-卷垫凳&#34;&gt;&amp;ldquo;Roll-up Stool 卷垫凳&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-upcycling-product&#34;&gt;&amp;ndash; An Upcycling Product.&lt;/h3&gt;
@@ -891,7 +851,5 @@ You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas 
 &lt;img loading=&#34;lazy&#34; src=&#34;rollup7.JPG&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
-    
   </channel>
 </rss>

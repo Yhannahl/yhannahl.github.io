@@ -4,14 +4,14 @@
     <title>Storytelling on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/storytelling/</link>
     <description>Recent content in Storytelling on Yihan&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 May 2024 22:05:53 +0200</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2024 22:05:53 +0200</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Echo of Natureland 👂🏻</title>
       <link>https://yhannahl.github.io/en/projects/echoofnatureland/</link>
       <pubDate>Sun, 12 May 2024 22:05:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/echoofnatureland/</guid>
       <description>&lt;h2 id=&#34;echo-of-natureland&#34;&gt;&amp;ldquo;Echo of Natureland&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-audio-reactive-ai-generative-visual-project-with-a-dramaturgical-story&#34;&gt;&amp;ndash; An Audio-reactive AI Generative Visual Project with a Dramaturgical Story.&lt;/h3&gt;
@@ -85,6 +85,5 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon7.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

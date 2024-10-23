@@ -4,14 +4,14 @@
     <title>Mapping on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/mapping/</link>
     <description>Recent content in Mapping on Yihan&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jun 2024 14:28:51 +0800</lastBuildDate><atom:link href="https://yhannahl.github.io/en/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 14:28:51 +0800</lastBuildDate>
+    <atom:link href="https://yhannahl.github.io/en/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contamination to System ❗️🌊❗️</title>
       <link>https://yhannahl.github.io/en/projects/cts/</link>
       <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/cts/</guid>
       <description>&lt;h2 id=&#34;contamination-to-system&#34;&gt;&amp;ldquo;Contamination to System&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-embodied-interactive-mapping-with-real-time-generative-visual&#34;&gt;&amp;ndash; An Embodied interactive mapping with real-time generative visual.&lt;/h3&gt;
@@ -66,12 +66,10 @@
 &lt;p&gt;Main software: Blender, TouchDesigner, StableDiffusion&lt;/p&gt;
 &lt;p&gt;Main hardware: Zed Camera&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AN ORDINARY ROOM 🚪</title>
       <link>https://yhannahl.github.io/en/projects/anordinaryroom/</link>
       <pubDate>Mon, 03 Jun 2024 14:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/anordinaryroom/</guid>
       <description>&lt;h2 id=&#34;an-ordinary-room-&#34;&gt;&amp;ldquo;AN ORDINARY ROOM 🚪&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-contextualized-digital-art-project-about-fear-aroused-by-the-creature-cockroach-that-appeared-on-a-normal-day-in-tropical-cities&#34;&gt;&amp;ndash; A contextualized digital art project about fear aroused by the creature, cockroach, that appeared on a normal day in tropical cities.&lt;/h3&gt;
@@ -132,12 +130,10 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;anor2.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>KUN&#39;SI 🎞️</title>
       <link>https://yhannahl.github.io/en/projects/kunsi/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/kunsi/</guid>
       <description>&lt;h2 id=&#34;kunsi-鲲驷&#34;&gt;&amp;ldquo;KUN&amp;rsquo;SI 鲲驷&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---a-digital-interactive-installation&#34;&gt;&amp;ndash; A Digital Interactive Installation.&lt;/h3&gt;
@@ -192,12 +188,10 @@
 &lt;/body&gt;
 &lt;/html&gt;</description>
     </item>
-    
     <item>
       <title>DOU&#39;DOU 🦾</title>
       <link>https://yhannahl.github.io/en/projects/doudou/</link>
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
-      
       <guid>https://yhannahl.github.io/en/projects/doudou/</guid>
       <description>&lt;h2 id=&#34;doudou-兜兜淘梦&#34;&gt;&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---an-experimental-new-media-project&#34;&gt;&amp;ndash; An Experimental New Media Project.&lt;/h3&gt;
@@ -256,6 +250,5 @@
 &lt;/body&gt;
 &lt;/html&gt;</description>
     </item>
-    
   </channel>
 </rss>
