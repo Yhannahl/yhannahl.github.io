@@ -31,7 +31,7 @@ cover:
 
 ---
 
-### 4 - WIP
+### 4 - Coral City : Exploring Resilience and Renewal in Virtual Undersea Ecosystems (WIP)
 
 
 
@@ -50,10 +50,10 @@ cover:
 *Nutrient Collector - The Living World Underground*
 by Yihan 06102024
 
-- I made this little VR game demo for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.
+- I made this little self-contained VR game for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.
 
 - *Nutrient Collector* lets the player collect to save the nutrients that drain away from the living world underground.
-- WIP: Up to now, I do not have enough time to optimize the models, and I will arrange time to do this iterations later.
+
 
 - Game Logics:
 You first need to find and open 3 treasure boxes(you can move on the whole platform and teleport to some areas- those small discs), when completed, you will get the tool on the Right hand to 'collect' the 'nutrition bubbles' floating upwards from those giant underground livings. 
