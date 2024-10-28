@@ -4,7 +4,7 @@
     <title>Interactive on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/interactive/</link>
     <description>Recent content in Interactive on Yihan&#39;s Website</description>
-    <generator>Hugo -- 0.136.4</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
     <atom:link href="https://yhannahl.github.io/en/tags/interactive/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects---new-projects-work-in-progress&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects - New Projects Work in Progress&amp;rdquo;&lt;/h2&gt;
 &lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;4---wip&#34;&gt;4 - WIP&lt;/h3&gt;
+&lt;h3 id=&#34;4---coral-city--exploring-resilience-and-renewal-in-virtual-undersea-ecosystems-wip&#34;&gt;4 - Coral City : Exploring Resilience and Renewal in Virtual Undersea Ecosystems (WIP)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;3---nutrient-collector&#34;&gt;3 - Nutrient Collector&lt;/h3&gt;
 &lt;hr&gt;
@@ -28,13 +28,10 @@
 by Yihan 06102024&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;I made this little VR game demo for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.&lt;/p&gt;
+&lt;p&gt;I made this little self-contained VR game for practicing on implementing some basic interactive mechanisms and levels in developing VR world, such as event order, colliders, audio reactions, game restart logic, etc.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;Nutrient Collector&lt;/em&gt; lets the player collect to save the nutrients that drain away from the living world underground.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;WIP: Up to now, I do not have enough time to optimize the models, and I will arrange time to do this iterations later.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Game Logics:
