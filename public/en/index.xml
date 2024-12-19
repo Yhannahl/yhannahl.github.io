@@ -372,13 +372,56 @@ In the final stage, the turf house becomes unrecognizable, morphing into an orga
 &lt;p&gt;[ &lt;em&gt;&amp;lsquo;Blossom to Soar&amp;rsquo; is an interactive installation with generative visuals, exploring the contrast between freedom and bondage, and the creativity of nature.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;By picking up the flower pot and then tilting it, grow your digital butterfly orchid and release into the posture of flying butterflies, presenting a magical dance of digital and nature.&lt;/em&gt; ]&lt;/p&gt;
 &lt;hr&gt;
+&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;style type=&#34;text/css&#34;&gt;
+        .youtube_shortcodes {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 66%;
+            margin: auto;
+            overflow: hidden;
+            text-align: center;
+        }
+        .youtube_shortcodes iframe {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;youtube_shortcodes&#34;&gt;
+    &lt;iframe
+            class=&#34;youtube-player&#34;
+            type=&#34;text/html&#34;
+            width=&#34;640&#34;
+            height=&#34;385&#34;
+            src=&#34;https://www.youtube.com/embed/FVWJUHPWKLk?autoplay=0&#34;
+            style=&#34;
+                 position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;
+                 border:0;&#34;
+            allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;blossom01.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;h4 id=&#34;---concept&#34;&gt;&amp;ndash; Concept&lt;/h4&gt;
 &lt;p&gt;Phalaenopsis, commonly known as butterfly orchids.&lt;/p&gt;
-&lt;p&gt;The name &amp;lsquo;Phalaenopsis&amp;rsquo; comes from two Greek words, &amp;lsquo;Phalaina&amp;rsquo; (meaning moth or butterfly) and &amp;lsquo;opsis&amp;rsquo; (meaning similar). Therefore, &amp;lsquo;Phalaenopsis&amp;rsquo; translates to &amp;lsquo;plant resembling a butterfly.&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;Butterfly orchids have been cultivated by humans as ornamental plants with beauty and colorfulness. People give this plant glorious meanings, while the original butterfly orchids that grew in their natural environment were even not noticeable by us.&lt;/p&gt;
-&lt;p&gt;Indeed, the association between butterfly orchids and butterflies seems to be limited to their outward appearance, without endowing them with true freedom of spirit. Just like various limitations and restrictions exist in human society, leading people to contemplate the balance between individual freedom and societal rules. In this project, through the transformation &amp;amp; returning between Butterfly Orchids &amp;amp; Butterflies, combining with participant&amp;rsquo;s involvements. The plant with its free spirit to discuss the Freedom &amp;amp; Bondage of Life and convey the message of breaking through limitations.&lt;/p&gt;</description>
+&lt;p&gt;The name &amp;lsquo;Phalaenopsis&amp;rsquo; comes from two Greek words, &amp;lsquo;Phalaina&amp;rsquo; (meaning moth or butterfly) and &amp;lsquo;opsis&amp;rsquo; (meaning similar). Therefore, &amp;lsquo;Phalaenopsis&amp;rsquo; translates to &amp;lsquo;plant resembling a butterfly.&amp;rsquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Fabrication Documentation 🔧</title>

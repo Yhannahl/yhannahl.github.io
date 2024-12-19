@@ -38,6 +38,11 @@ cover:
 *By picking up the flower pot and then tilting it, grow your digital butterfly orchid and release into the posture of flying butterflies, presenting a magical dance of digital and nature.* ]
 
 ----------------
+#### -- Video Presentation
+
+{{< youtube FVWJUHPWKLk >}}
+
+---
 
 ![](blossom01.jpg)
 
@@ -59,9 +64,7 @@ Indeed, the association between butterfly orchids and butterflies seems to be li
 
 ---
 
-#### -- Video Presentation
 
-{{< youtube wcM7-GoEZqc >}}
 
 > ### **P.S🔭**
 > - My learning documentation: **[Physical Computing](https://newmedia.dog/students/2023/yihan-lou/physical-computing/final-project/)**
