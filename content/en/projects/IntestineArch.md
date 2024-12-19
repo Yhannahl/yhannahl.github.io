@@ -19,7 +19,7 @@ showbreadcrumbs: true
 disableShare: true
 weight: 268
 cover:
-    image: "projects/IntestineArch/IArchCover.jpg"
+    image: "projects/codingvr/IArchCover.jpg"
     caption: "Intestine Architecture - VR Project"
     alt: ""
     relative: false
