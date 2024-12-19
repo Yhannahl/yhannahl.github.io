@@ -1,5 +1,5 @@
 ﻿---
-title: "Wwwdesign - UGames - A BoardGame Social Network 🔗 (WIP)"
+title: "Web design - UGames - A BoardGame Social Network 🔗 (UI/UX)"
 date: 2024-09-29T23:13:03+03:00
 draft: false
 hidemeta: true

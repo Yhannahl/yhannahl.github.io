@@ -1,5 +1,5 @@
 ﻿---
-title: "Coding Virtual World 🕹️ (WIP)"
+title: "Coding Virtual World 🕹️"
 date: 2024-09-30T22:11:53+02:00
 hidemeta: true
 draft: false
@@ -17,7 +17,7 @@ showToc: true
 TocOpen: true
 showbreadcrumbs: true
 disableShare: true
-weight: 268
+weight: 267
 cover:
     image: "projects/codingvr/codingvrCover1.jpg"
     caption: "Coding Virtual World - VR Projects"
@@ -26,18 +26,13 @@ cover:
 
 ---
 
-## "Coding Virtual World - VR Projects - New Projects Work in Progress"
+## "Coding Virtual World - VR Projects"
 ### -- Develop VR games/experiences in Unity.
 
----
-
-### 4 - Coral City : Exploring Resilience and Renewal in Virtual Undersea Ecosystems (WIP)
-
-
 
 ---
 
-### 3 - Nutrient Collector
+### 4 - Nutrient Collector
 
 ----------------
 
@@ -92,6 +87,30 @@ Snap Turn, 'Fire Energy Projectile' later
 ![](NutrientCollector10.jpg)
 ![](NutrientCollector12.jpg)
 ![](NutrientCollector13.jpg)
+
+---
+
+</br>
+
+</br>
+
+
+---
+
+### 3 - Coral City : Exploring Resilience and Renewal in Virtual Undersea Ecosystems
+
+---
+
+#### -- Concept
+
+![](Coral_StartScene.jpg)
+![](Coral_interactions.jpg)
+![](Coral_EndingScene.jpg)
+
+#### -- Video Presentation
+
+{{< youtube OIxzuNCW-PU >}}
+
 ---
 
 </br>
