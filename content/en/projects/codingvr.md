@@ -88,7 +88,6 @@ Snap Turn, 'Fire Energy Projectile' later
 ![](NutrientCollector12.jpg)
 ![](NutrientCollector13.jpg)
 
----
 
 </br>
 
@@ -103,6 +102,9 @@ Snap Turn, 'Fire Energy Projectile' later
 
 #### -- Concept
 
+An demo of VR game experience that invites the player to explore coral communities, stressing how human activities and environmental stressors impact these vibrant but vulnerable
+ecosystems.
+</br>
 ![](Coral_StartScene.jpg)
 ![](Coral_interactions.jpg)
 ![](Coral_EndingScene.jpg)
