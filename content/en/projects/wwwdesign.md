@@ -1,7 +1,7 @@
 ﻿---
 title: "Web design - UGames - A BoardGame Social Network 🔗 (UI/UX)"
 date: 2024-09-29T23:13:03+03:00
-draft: false
+draft: true
 hidemeta: true
 author: ["Yihan"]
 keywords: 

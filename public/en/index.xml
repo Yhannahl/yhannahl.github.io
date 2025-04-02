@@ -6,7 +6,7 @@
     <description>Recent content on Yihan&#39;s Website</description>
     <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Dec 2024 12:11:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
     <atom:link href="https://yhannahl.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 🙋🏻‍♀️</title>
@@ -162,21 +162,6 @@ When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if ti
 You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Intestine Architecture - VR Datastory of Iceland Turfhouse 🧇</title>
-      <link>https://yhannahl.github.io/en/projects/intestinearchitecture/</link>
-      <pubDate>Thu, 19 Dec 2024 12:11:53 +0200</pubDate>
-      <guid>https://yhannahl.github.io/en/projects/intestinearchitecture/</guid>
-      <description>&lt;h2 id=&#34;intestine-architecture&#34;&gt;&amp;ldquo;Intestine Architecture&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---vr-datastory-of-iceland-turfhouse---microbial-coliving&#34;&gt;&amp;ndash; VR Datastory of Iceland Turfhouse - Microbial Coliving&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---concept&#34;&gt;&amp;ndash; Concept&lt;/h4&gt;
-&lt;p&gt;&amp;lsquo;Intestine Architecture&amp;rsquo; is a VR narrative where the Turf House superorganism is dormant. When the player enters the house for the first time, it appears quiet and lifeless. However, by exploring the house, the player gradually restores the various uses of its spaces, thereby reawakening the microbial diversity it once harbored.
-&lt;/br&gt;
-Beings are whispering and portals draw the player into the walls (void), where they can experience the microbes up close on a microscopic scale. With each microbe added back to the turf house&amp;rsquo;s microbiome and the soundscapes&amp;rsquo; simulations, the overall atmosphere of the house transforms.
-&lt;/br&gt;
-In the final stage, the turf house becomes unrecognizable, morphing into an organic-looking structure with pulsating, heartbeatlike movements. This new form of the building invites speculation about future architecture inspired from nature: What will future walls look like? Will they derive their structure and stability from organic connections? Will they be flexible and adaptable, or will the focus be on interspecies collaboration?&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contamination to System ❗️🌊❗️</title>
       <link>https://yhannahl.github.io/en/projects/cts/</link>
       <pubDate>Mon, 15 Apr 2024 22:11:53 +0200</pubDate>
@@ -233,69 +218,6 @@ In the final stage, the turf house becomes unrecognizable, morphing into an orga
 &lt;/html&gt;
 &lt;p&gt;Main software: Blender, TouchDesigner, StableDiffusion&lt;/p&gt;
 &lt;p&gt;Main hardware: Zed Camera&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Web design - UGames - A BoardGame Social Network 🔗 (UI/UX)</title>
-      <link>https://yhannahl.github.io/en/projects/wwwdesign/</link>
-      <pubDate>Sun, 29 Sep 2024 23:13:03 +0300</pubDate>
-      <guid>https://yhannahl.github.io/en/projects/wwwdesign/</guid>
-      <description>&lt;h2 id=&#34;ugames---a-boardgame-social-network---work-in-progress&#34;&gt;&amp;ldquo;UGames - A BoardGame Social Network - Work in Progress&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---web-application-design-and-development&#34;&gt;&amp;ndash; Web Application Design and Development&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;phase1---design-documentation&#34;&gt;Phase1 - Design Documentation&lt;/h3&gt;
-&lt;hr&gt;
-&lt;iframe src=&#34;https://docs.google.com/document/d/12l8vwIzacx9v8El1PqnZBWRYwv0mgUDAzZTLw_UFJbQ/edit?usp=sharing&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---hi-fi-demo&#34;&gt;&amp;ndash; Hi-Fi Demo&lt;/h4&gt;
-&lt;iframe style=&#34;border: 1px solid rgba(0, 0, 0, 0.1);&#34; width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://embed.figma.com/proto/iYuGIB05yItAks2UDD3ZBF/UGames---BoardGame-Social-Network?page-id=0%3A1&amp;node-id=2057-1211&amp;node-type=frame&amp;viewport=-3229%2C1844%2C0.19&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;starting-point-node-id=2057%3A1211&amp;embed-host=share&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---preliminary-schedule-for-the-project&#34;&gt;&amp;ndash; Preliminary schedule for the project&lt;/h4&gt;
-&lt;/br&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;6 September: Group Registration&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;13 September: Reserve Time for Design Meeting&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;20 September: Design Meeting with Assistant&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;23 September: Design Gala Slides&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;27 September: Design Document&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;11 October: Demo Gala Reflection&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;18 October: Updated Project Plan&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;29 November: Final Document&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;29 November: Final Web Service&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;(WIP)&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---responsibilities-for-each-group-member&#34;&gt;&amp;ndash; Responsibilities for each group member&lt;/h4&gt;
-&lt;/br&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;UI/UX designer: Yihan&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Frontend developer: Edgar, Yihan(assistant)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Backend developer and database administrator: Loïc, Edgar(assistant)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     <item>
       <title>AN ORDINARY ROOM 🚪</title>
@@ -569,27 +491,6 @@ In the final stage, the turf house becomes unrecognizable, morphing into an orga
 &lt;h5 id=&#34;-ip-characters-designed-from-peoples-feeling-of-the-city&#34;&gt;· IP Characters Designed from people&amp;rsquo;s feeling of the City&lt;/h5&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;xq1.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ges.edu 👌🏻</title>
-      <link>https://yhannahl.github.io/en/projects/gesedu/</link>
-      <pubDate>Thu, 19 Jan 2023 21:04:32 +0800</pubDate>
-      <guid>https://yhannahl.github.io/en/projects/gesedu/</guid>
-      <description>&lt;h2 id=&#34;gesedu-基于手势辅助的幼教系统&#34;&gt;&amp;ldquo;Ges.edu 基于手势辅助的幼教系统&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---gesture-assisted-early-childhood-education-platform&#34;&gt;&amp;ndash; Gesture-assisted Early Childhood Education Platform.&lt;/h3&gt;
-&lt;hr&gt;
-&lt;p&gt;[ &lt;em&gt;It’s interesting to find that gestures use could help a lot with our daily expression and even the learning process. Besides, with new technology, gestures were developed for more scenarios.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Then, I thought about what will be there if gesture could be used into children’s education, which may offer the opportunity for both their learning progress and future adaptability to such interaction modes.&lt;/em&gt; ]&lt;/p&gt;
-&lt;hr&gt;
-&lt;h5 id=&#34;-intro&#34;&gt;· Intro&lt;/h5&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;gesedu1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;h5 id=&#34;-presentation&#34;&gt;· Presentation&lt;/h5&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;gesedu2.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;interaction-design&#34;&gt;Interaction Design&lt;/h4&gt;
-&lt;iframe style=&#34;border: 1px solid rgba(0, 0, 0, 0.1);&#34; width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzk581mhaUuwRK7eYkadpbO%2FGes.edu%3Fpage-id%3D0%253A1%26node-id%3D2-2%26viewport%3D585%252C291%252C0.18%26t%3DGCBvJGvHVPFArknT-1%26scaling%3Dscale-down%26starting-point-node-id%3D18%253A14&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Carte 🎯</title>

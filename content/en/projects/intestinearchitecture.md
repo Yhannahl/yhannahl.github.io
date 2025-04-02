@@ -2,7 +2,7 @@
 title: "Intestine Architecture - VR Datastory of Iceland Turfhouse 🧇"
 date: 2024-12-19T12:11:53+02:00
 hidemeta: true
-draft: false
+draft: true
 author: ["Yihan"]
 keywords: 
 - VR
