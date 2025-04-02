@@ -4,7 +4,7 @@
     <title>Interaction on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/interaction/</link>
     <description>Recent content in Interaction on Yihan&#39;s Website</description>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Oct 2023 22:47:00 +0200</lastBuildDate>
     <atom:link href="https://yhannahl.github.io/en/tags/interaction/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
       <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
       <guid>https://yhannahl.github.io/en/projects/ir/</guid>
       <description>&lt;h2 id=&#34;interreaction&#34;&gt;&amp;ldquo;InterReaction&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
+&lt;h3 id=&#34;-a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;[ &lt;em&gt;InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.&lt;/em&gt; ]&lt;/p&gt;</description>

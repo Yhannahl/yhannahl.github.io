@@ -4,7 +4,7 @@
     <title>Performance on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/performance/</link>
     <description>Recent content in Performance on Yihan&#39;s Website</description>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Oct 2023 22:47:00 +0200</lastBuildDate>
     <atom:link href="https://yhannahl.github.io/en/tags/performance/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
       <pubDate>Mon, 16 Jan 2023 23:28:51 +0800</pubDate>
       <guid>https://yhannahl.github.io/en/projects/doudou/</guid>
       <description>&lt;h2 id=&#34;doudou-兜兜淘梦&#34;&gt;&amp;ldquo;DOU&amp;rsquo;DOU 兜兜淘梦&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---an-experimental-new-media-project&#34;&gt;&amp;ndash; An Experimental New Media Project.&lt;/h3&gt;
+&lt;h3 id=&#34;-an-experimental-new-media-project&#34;&gt;&amp;ndash; An Experimental New Media Project.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;[ &lt;em&gt;According to the fixed point trajectory, the robotic arm carries out the media projection like a chasing light in the space, connecting multiple fragmented dream segments by the interaction between light &amp;amp; shadow with space.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Through constructing the &amp;ldquo;Escape plan&amp;rdquo; of &amp;ldquo;a self-conscious shadow&amp;rdquo; in our sleep to metaphorize that the past which makes us want to escape is actually a part of our own heart, and we have the ability to face our inner self.&lt;/em&gt; ]&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;h5 id=&#34;-during-the-production&#34;&gt;· During the Production&lt;/h5&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;dd2.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;h4 id=&#34;---video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
+&lt;h4 id=&#34;-video-presentation&#34;&gt;&amp;ndash; Video Presentation&lt;/h4&gt;
 &lt;!DOCTYPE HTML&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -76,7 +76,7 @@
       <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
       <guid>https://yhannahl.github.io/en/projects/ir/</guid>
       <description>&lt;h2 id=&#34;interreaction&#34;&gt;&amp;ldquo;InterReaction&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
+&lt;h3 id=&#34;-a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;[ &lt;em&gt;InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.&lt;/em&gt; ]&lt;/p&gt;</description>

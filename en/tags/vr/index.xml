@@ -4,9 +4,9 @@
     <title>VR on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/vr/</link>
     <description>Recent content in VR on Yihan&#39;s Website</description>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Dec 2024 12:11:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 22:11:53 +0200</lastBuildDate>
     <atom:link href="https://yhannahl.github.io/en/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Virtual World 🕹️</title>
@@ -14,11 +14,11 @@
       <pubDate>Mon, 30 Sep 2024 22:11:53 +0200</pubDate>
       <guid>https://yhannahl.github.io/en/projects/codingvr/</guid>
       <description>&lt;h2 id=&#34;coding-virtual-world---vr-projects&#34;&gt;&amp;ldquo;Coding Virtual World - VR Projects&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
+&lt;h3 id=&#34;-develop-vr-gamesexperiences-in-unity&#34;&gt;&amp;ndash; Develop VR games/experiences in Unity.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;4---nutrient-collector&#34;&gt;4 - Nutrient Collector&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;---draft--concept&#34;&gt;&amp;ndash; Draft &amp;amp; Concept&lt;/h4&gt;
+&lt;h4 id=&#34;-draft--concept&#34;&gt;&amp;ndash; Draft &amp;amp; Concept&lt;/h4&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;NutrientCollectorDraft.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;/br&gt;
@@ -39,27 +39,12 @@ When &amp;lsquo;scores&amp;rsquo; reach 100 points, you win the game, else if ti
 You can also use the &amp;lsquo;Restart&amp;rsquo; button on the main UI Canvas to restart the game. Plus, if you fall off the edge of the platform, the game also restarts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Intestine Architecture - VR Datastory of Iceland Turfhouse 🧇</title>
-      <link>https://yhannahl.github.io/en/projects/intestinearchitecture/</link>
-      <pubDate>Thu, 19 Dec 2024 12:11:53 +0200</pubDate>
-      <guid>https://yhannahl.github.io/en/projects/intestinearchitecture/</guid>
-      <description>&lt;h2 id=&#34;intestine-architecture&#34;&gt;&amp;ldquo;Intestine Architecture&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---vr-datastory-of-iceland-turfhouse---microbial-coliving&#34;&gt;&amp;ndash; VR Datastory of Iceland Turfhouse - Microbial Coliving&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;---concept&#34;&gt;&amp;ndash; Concept&lt;/h4&gt;
-&lt;p&gt;&amp;lsquo;Intestine Architecture&amp;rsquo; is a VR narrative where the Turf House superorganism is dormant. When the player enters the house for the first time, it appears quiet and lifeless. However, by exploring the house, the player gradually restores the various uses of its spaces, thereby reawakening the microbial diversity it once harbored.
-&lt;/br&gt;
-Beings are whispering and portals draw the player into the walls (void), where they can experience the microbes up close on a microscopic scale. With each microbe added back to the turf house&amp;rsquo;s microbiome and the soundscapes&amp;rsquo; simulations, the overall atmosphere of the house transforms.
-&lt;/br&gt;
-In the final stage, the turf house becomes unrecognizable, morphing into an organic-looking structure with pulsating, heartbeatlike movements. This new form of the building invites speculation about future architecture inspired from nature: What will future walls look like? Will they derive their structure and stability from organic connections? Will they be flexible and adaptable, or will the focus be on interspecies collaboration?&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Carte 🎯</title>
       <link>https://yhannahl.github.io/en/projects/carte/</link>
       <pubDate>Thu, 19 Jan 2023 21:04:16 +0800</pubDate>
       <guid>https://yhannahl.github.io/en/projects/carte/</guid>
       <description>&lt;h2 id=&#34;carte-卡尔&#34;&gt;&amp;ldquo;Carte 卡尔&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---an-intergrated-product-design-project&#34;&gt;&amp;ndash; An Intergrated Product Design Project.&lt;/h3&gt;
+&lt;h3 id=&#34;-an-intergrated-product-design-project&#34;&gt;&amp;ndash; An Intergrated Product Design Project.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;[ &lt;em&gt;The basics of STEM subjects are widely used in value creation and life. People are paying more and more attention to STEM education, but in the process of interacting with children it becomes clear that there is a great deal of variability in their perception of space which can lead to greater barriers to future learning. Putting aside innate factors, think about whether there can be more organized products that allow young children to better develop spatial thinking while playing.&lt;/em&gt; ]&lt;/p&gt;
 &lt;hr&gt;

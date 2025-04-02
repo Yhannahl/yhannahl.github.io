@@ -4,7 +4,7 @@
     <title>Audio Visual on Yihan&#39;s Website</title>
     <link>https://yhannahl.github.io/en/tags/audio-visual/</link>
     <description>Recent content in Audio Visual on Yihan&#39;s Website</description>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 May 2024 22:05:53 +0200</lastBuildDate>
     <atom:link href="https://yhannahl.github.io/en/tags/audio-visual/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,10 @@
       <pubDate>Sun, 12 May 2024 22:05:53 +0200</pubDate>
       <guid>https://yhannahl.github.io/en/projects/echoofnatureland/</guid>
       <description>&lt;h2 id=&#34;echo-of-natureland&#34;&gt;&amp;ldquo;Echo of Natureland&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---an-audio-reactive-ai-generative-visual-project-with-a-dramaturgical-story&#34;&gt;&amp;ndash; An Audio-reactive AI Generative Visual Project with a Dramaturgical Story.&lt;/h3&gt;
+&lt;h3 id=&#34;-an-audio-reactive-ai-generative-visual-project-with-a-dramaturgical-story&#34;&gt;&amp;ndash; An Audio-reactive AI Generative Visual Project with a Dramaturgical Story.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;Main Software: TouchDesigner, StreamDiffusion, AfterEffects&lt;/p&gt;
-&lt;h4 id=&#34;---story-concept&#34;&gt;&amp;ndash; Story Concept&lt;/h4&gt;
+&lt;h4 id=&#34;-story-concept&#34;&gt;&amp;ndash; Story Concept&lt;/h4&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon1.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon2.jpg&#34; alt=&#34;&#34;  /&gt;
@@ -27,18 +27,18 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon4.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;---promts-analysis&#34;&gt;&amp;ndash; Promts Analysis&lt;/h4&gt;
+&lt;h4 id=&#34;-promts-analysis&#34;&gt;&amp;ndash; Promts Analysis&lt;/h4&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon5.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon6.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;---prots-to-control-visuals&#34;&gt;&amp;ndash; Prots to Control Visuals&lt;/h4&gt;
+&lt;h4 id=&#34;-prots-to-control-visuals&#34;&gt;&amp;ndash; Prots to Control Visuals&lt;/h4&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;eon8.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Combine audioVisuals and prompts to StreamDiffusion to generate realtime images.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;---video-demo&#34;&gt;&amp;ndash; Video DEMO&lt;/h4&gt;
+&lt;h4 id=&#34;-video-demo&#34;&gt;&amp;ndash; Video DEMO&lt;/h4&gt;
 &lt;!DOCTYPE HTML&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -91,7 +91,7 @@
       <pubDate>Sun, 29 Oct 2023 22:47:00 +0200</pubDate>
       <guid>https://yhannahl.github.io/en/projects/ir/</guid>
       <description>&lt;h2 id=&#34;interreaction&#34;&gt;&amp;ldquo;InterReaction&amp;rdquo;&lt;/h2&gt;
-&lt;h3 id=&#34;---a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
+&lt;h3 id=&#34;-a-real-time-audio-visual-experiment&#34;&gt;&amp;ndash; A real-time audio visual experiment.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;[ &lt;em&gt;InterReaction’s concept is to create a mesmerizing real-time visual effect to bring sound to life. By combining dynamic particle-based graphics and abstract live camera footage, I create the psychedelic visual experience on screen. Viewers can engage with the visuals by pressing specific keys on the keyboard to switch between different sounds (designated as 1, 2, and 3) and alter graphic patterns (designated as 5, 6, and 7). Additionally, viewers can transform the entire color atmosphere by covering the webcam with their hand or an object.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;InterReaction is my initial project using Touchdesigner to explore into the realm of audio-reactive visuals. Through this experiment, I delved into some simple interaction can made to control visual changes, moving materials and audio manipulating methods in the real time interactive multimedia contents. It’s a great start to seek and create unique sensory storytelling and journey.&lt;/em&gt; ]&lt;/p&gt;</description>
